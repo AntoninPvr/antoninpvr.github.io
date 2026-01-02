@@ -1,0 +1,2141 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonin Pivard – Single-board computer cases</title><link>https://antoninpvr.github.io/hardware/rpi_case/</link><description>Recent content in Single-board computer cases on Antonin Pivard</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Feb 2024 09:24:00 +0200</lastBuildDate><atom:link href="https://antoninpvr.github.io/hardware/rpi_case/index.xml" rel="self" type="application/rss+xml"/><item><title>Raspberry PI 5 Enclosure</title><link>https://antoninpvr.github.io/hardware/rpi_case/rpi5/</link><pubDate>Tue, 12 Mar 2024 10:34:00 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/rpi_case/rpi5/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/rpi_case/rpi5/featured_hu_eceb78a1f0f91433.jpg" width="640" height="423"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/RPI5_Case"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+RPI5_Case&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Compact case for Raspberry PI 5. It support RPI 5 and is compatible with Raspberry Pi Active Cooler&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>v1.1.0&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;hr>
+&lt;p>This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But GPIO are easily accessibles.&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/render_sd_hdmi.jpg?raw=true" alt="HDMI side view&amp;#34;" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/render_hdmi_usb.jpg?raw=true" alt="“USB side view”" loading="lazy" />&lt;/p>
+&lt;h2>Compatibility&lt;span class="hx:absolute hx:-mt-20" id="compatibility">&lt;/span>
+&lt;a href="#compatibility" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This enclosure support following boards:&lt;/p>
+&lt;ul>
+&lt;li>Raspberry PI 5&lt;/li>
+&lt;/ul>
+&lt;h2>Files&lt;span class="hx:absolute hx:-mt-20" id="files">&lt;/span>
+&lt;a href="#files" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Two versions of the top part are available. One with GPIO access and one without. Ideal for a clean look or server applications like VPN, DNS&amp;hellip;&lt;/p>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Lower part&lt;span class="hx:absolute hx:-mt-20" id="lower-part">&lt;/span>
+&lt;a href="#lower-part" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_5_case_bottom.STL&lt;/code> Bottom part of the enclosure common to all&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_5_case_bottom.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_5_case_bottom.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_5_case_bottom.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Upper part GPIO&lt;span class="hx:absolute hx:-mt-20" id="upper-part-gpio">&lt;/span>
+&lt;a href="#upper-part-gpio" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_5_case_top.STL&lt;/code> Orginal top part of the enclosure with GPIO access&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_5_case_top.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_5_case_top.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_5_case_top.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Upper part without GPIO&lt;span class="hx:absolute hx:-mt-20" id="upper-part-without-gpio">&lt;/span>
+&lt;a href="#upper-part-without-gpio" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_5_case_top_no_gpio.STL&lt;/code> Top part of the enclosure without GPIO access&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_5_case_top_no_gpio.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_5_case_top_no_gpio.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_5_case_top_no_gpio.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>GPIO Cover&lt;span class="hx:absolute hx:-mt-20" id="gpio-cover">&lt;/span>
+&lt;a href="#gpio-cover" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>gpio_cover.STL&lt;/code> Cover for GPIO. Best of both worlds, clean look and easy access to GPIO&lt;/p>
+&lt;/div>
+&lt;div id="./models/gpio_cover.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/gpio_cover.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/gpio_cover.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;h2>Thermal management&lt;span class="hx:absolute hx:-mt-20" id="thermal-management">&lt;/span>
+&lt;a href="#thermal-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This enclosure is designed to be compatible with the official &lt;a href="https://www.raspberrypi.com/products/active-cooler/"target="_blank" rel="noopener">Raspberry Pi Active Cooler&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/internal.jpg?raw=true" alt="“Internal view”" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/internal_heatsink.jpg?raw=true" alt="“Internal view with heatsink”" loading="lazy" />&lt;/p>
+&lt;h2>Material and print settings&lt;span class="hx:absolute hx:-mt-20" id="material-and-print-settings">&lt;/span>
+&lt;a href="#material-and-print-settings" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.&lt;/p>
+&lt;p>4x M3x24mm flat-head screws and 4x M3 nuts are needed to assemble the case.&lt;/p>
+&lt;h2>Run button&lt;span class="hx:absolute hx:-mt-20" id="run-button">&lt;/span>
+&lt;a href="#run-button" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>1mm hole near micro sd-card.&lt;/p>
+&lt;h2>RTC battery&lt;span class="hx:absolute hx:-mt-20" id="rtc-battery">&lt;/span>
+&lt;a href="#rtc-battery" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Dedicated space for a CR2020 battery above Ethernet port.&lt;/p></description></item><item><title>Orange PI Base CM4 Case</title><link>https://antoninpvr.github.io/hardware/rpi_case/orange_pi_cm4_base/</link><pubDate>Tue, 20 Feb 2024 14:22:00 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/rpi_case/orange_pi_cm4_base/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/rpi_case/orange_pi_cm4_base/featured_hu_967cbda8701e98e6.jpg" width="640" height="350"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+OrangePI_Base_CM4_Case&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Compact case for Orange PI Compute Module 4 Base board. Intended for passive cooling. This case add support for 2280 M2 module&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>v0.0.0&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;hr>
+&lt;p>This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But allow use of M2 expension card / SSD and add compatibility with M2 2280 module.
+As OrangePI Base board is compatible with Raspberry PI CM4, this case is also compatible with Raspberry PI CM4.&lt;/p>
+&lt;p>Ideal for a clean look or server applications like VPN, DNS&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full.JPG?raw=true" alt="“Enclosure view”" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full_transparent.JPG?raw=true" alt="“Enclosure transparancy view”" loading="lazy" />&lt;/p>
+&lt;h2>Compatibility&lt;span class="hx:absolute hx:-mt-20" id="compatibility">&lt;/span>
+&lt;a href="#compatibility" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This enclosure support following boards:&lt;/p>
+&lt;ul>
+&lt;li>Orange PI CM4 Base&lt;/li>
+&lt;/ul>
+&lt;h2>Files&lt;span class="hx:absolute hx:-mt-20" id="files">&lt;/span>
+&lt;a href="#files" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;ul>
+&lt;li>&lt;code>case_orange_pi_bottom.STL&lt;/code> Bottom part of the enclosure common to all
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;div id="./models/case_orange_pi_bottom.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/case_orange_pi_bottom.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/case_orange_pi_bottom.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;ul>
+&lt;li>&lt;code>case_orange_pi_top.STL&lt;/code> Orginal top part of the enclosure
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;div id="./models/case_orange_pi_top.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/case_orange_pi_top.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/case_orange_pi_top.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;ul>
+&lt;li>&lt;code>m2_cache.STL&lt;/code> Cache when M2 port is not used
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;div id="./models/m2_cache.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/m2_cache.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/m2_cache.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;h2>M2 port&lt;span class="hx:absolute hx:-mt-20" id="m2-port">&lt;/span>
+&lt;a href="#m2-port" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The case is designed to support M2 2230, 2242 and 2280 card. The M2 port is accessible from the bottom of the case.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2.JPG?raw=true" title="M2 slot" alt="“M2 slot”" loading="lazy" />
+&lt;figcaption>M2 slot&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2_cover.JPG?raw=true" title="M2 slot cover" alt="“M2 cover”" loading="lazy" />
+&lt;figcaption>M2 slot cover&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;h2>Thermal management&lt;span class="hx:absolute hx:-mt-20" id="thermal-management">&lt;/span>
+&lt;a href="#thermal-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This enclosure is designed to be passive.&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/internal.JPG?raw=true%22" alt="“Internal view”" loading="lazy" />&lt;/p>
+&lt;h2>Material and print settings&lt;span class="hx:absolute hx:-mt-20" id="material-and-print-settings">&lt;/span>
+&lt;a href="#material-and-print-settings" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.&lt;/p>
+&lt;p>4x M2.5x24mm flat-head screws and 4x M2.5 nuts are needed to assemble the case.&lt;/p>
+&lt;p>3x M2.5x24mm flat-head screws and 3x M2.5 nuts can be add.&lt;/p>
+&lt;h2>Boot/Reset/Recovery button&lt;span class="hx:absolute hx:-mt-20" id="bootresetrecovery-button">&lt;/span>
+&lt;a href="#bootresetrecovery-button" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>3 integrated buttons are available on the top part of the enclosure.&lt;/p></description></item><item><title>Raspberry PI 4 Enclosure</title><link>https://antoninpvr.github.io/hardware/rpi_case/rpi4/</link><pubDate>Tue, 20 Feb 2024 14:22:00 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/rpi_case/rpi4/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/rpi_case/rpi4/featured_hu_9da9b7df292243df.jpg" width="640" height="379"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/RPI4B_Case"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+RPI4B_Case&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Compact enclosure for Raspberry PI 4. It support RPI 4B and provide space for a 35*35 heatsink.&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>v1.1.0&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;hr>
+&lt;p>This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But GPIO are easily accessibles.&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_sd_hdmi.jpg?raw=true" alt="HDMI side view&amp;#34;" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_hdmi_usb.jpg?raw=true" alt="“USB side view”" loading="lazy" />&lt;/p>
+&lt;h2>Compatibility&lt;span class="hx:absolute hx:-mt-20" id="compatibility">&lt;/span>
+&lt;a href="#compatibility" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This enclosure support following boards:&lt;/p>
+&lt;ul>
+&lt;li>Raspberry PI 4B&lt;/li>
+&lt;/ul>
+&lt;h2>Files&lt;span class="hx:absolute hx:-mt-20" id="files">&lt;/span>
+&lt;a href="#files" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Two versions of the upper part are available. One with GPIO access and one without. Ideal for a clean look or server applications like VPN, DNS&amp;hellip;&lt;/p>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Lower part&lt;span class="hx:absolute hx:-mt-20" id="lower-part">&lt;/span>
+&lt;a href="#lower-part" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_4b_case_bottom.STL&lt;/code> Bottom part of the enclosure common to all&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_4b_case_bottom.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_4b_case_bottom.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_4b_case_bottom.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Upper part GPIO&lt;span class="hx:absolute hx:-mt-20" id="upper-part-gpio">&lt;/span>
+&lt;a href="#upper-part-gpio" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_4b_case_top.STL&lt;/code> Orginal top part of the enclosure with GPIO access&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_4b_case_top.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_4b_case_top.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_4b_case_top.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Upper part without GPIO&lt;span class="hx:absolute hx:-mt-20" id="upper-part-without-gpio">&lt;/span>
+&lt;a href="#upper-part-without-gpio" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_4b_case_top_no_gpio.STL&lt;/code> Top part of the enclosure without GPIO access&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_4b_case_top_no_gpio.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_4b_case_top_no_gpio.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_4b_case_top_no_gpio.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>GPIO Cover&lt;span class="hx:absolute hx:-mt-20" id="gpio-cover">&lt;/span>
+&lt;a href="#gpio-cover" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>gpio_cover.STL&lt;/code> Cover for GPIO. Best of both worlds, clean look and easy access to GPIO&lt;/p>
+&lt;/div>
+&lt;div id="./models/gpio_cover.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/gpio_cover.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/gpio_cover.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;h2>Thermal management&lt;span class="hx:absolute hx:-mt-20" id="thermal-management">&lt;/span>
+&lt;a href="#thermal-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This enclosure is designed to be used with passive cooling solution.&lt;/p>
+&lt;p>No need for fan event with intense CPU usage.&lt;/p>
+&lt;h2>Material and print settings&lt;span class="hx:absolute hx:-mt-20" id="material-and-print-settings">&lt;/span>
+&lt;a href="#material-and-print-settings" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.&lt;/p>
+&lt;p>4x M3x24mm flat-head screws and 4x M3 nuts are needed to assemble the case.&lt;/p>
+&lt;h2>Run button&lt;span class="hx:absolute hx:-mt-20" id="run-button">&lt;/span>
+&lt;a href="#run-button" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>1mm hole above jack connector is designed to fit a 6x6mm push button. This button can be used to wake the Raspberry PI.&lt;/p></description></item><item><title>Raspberry PI 1-3 Enclosure</title><link>https://antoninpvr.github.io/hardware/rpi_case/rpi3/</link><pubDate>Sat, 03 Feb 2024 09:24:00 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/rpi_case/rpi3/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/rpi_case/rpi3/featured_hu_9ff0b8adc731a2ca.jpg" width="640" height="373"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+RPI_3Bplus_passive_enclosure&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Compact enclosure for Raspberry PI. It support RPI from 1B+ to 3B+ and provide space for a 35*35 heatsink.&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>v2.0.0&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;hr>
+&lt;p>This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But GPIO are easily accessibles.&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/render_sd_hdmi.jpg?raw=true" alt="HDMI side view&amp;#34;" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/render_hdmi_usb.jpg?raw=true" alt="“USB side view”" loading="lazy" />&lt;/p>
+&lt;h2>Compatibility&lt;span class="hx:absolute hx:-mt-20" id="compatibility">&lt;/span>
+&lt;a href="#compatibility" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This enclosure support following boards:&lt;/p>
+&lt;ul>
+&lt;li>Raspberry PI 1B+&lt;/li>
+&lt;li>Raspberry PI 2B&lt;/li>
+&lt;li>Raspberry PI 2B 1.2&lt;/li>
+&lt;li>Raspberry PI 3B&lt;/li>
+&lt;li>Raspberry PI 3B+&lt;/li>
+&lt;/ul>
+&lt;h2>Files&lt;span class="hx:absolute hx:-mt-20" id="files">&lt;/span>
+&lt;a href="#files" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Two versions of the upper part are available. One with GPIO access and one without. Ideal for a clean look or server applications like VPN, DNS&amp;hellip;&lt;/p>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Lower part&lt;span class="hx:absolute hx:-mt-20" id="lower-part">&lt;/span>
+&lt;a href="#lower-part" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_3bplus_enclosure_lower_1.2.STL&lt;/code> Lower part of the enclosure common to all&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_3bplus_enclosure_lower_2.0.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_3bplus_enclosure_lower_2.0.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_3bplus_enclosure_lower_2.0.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Upper part GPIO&lt;span class="hx:absolute hx:-mt-20" id="upper-part-gpio">&lt;/span>
+&lt;a href="#upper-part-gpio" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_3bplus_enclosure_upper_1.2.STL&lt;/code> Orginal upper part of the enclosure with GPIO access&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_3bplus_enclosure_upper_2.0.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_3bplus_enclosure_upper_2.0.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_3bplus_enclosure_upper_2.0.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>Upper part without GPIO&lt;span class="hx:absolute hx:-mt-20" id="upper-part-without-gpio">&lt;/span>
+&lt;a href="#upper-part-without-gpio" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>RPI_3bplus_enclosure_upper_1.2_no_gpio.STL&lt;/code> Upper part of the enclosure without GPIO access&lt;/p>
+&lt;/div>
+&lt;div id="./models/RPI_3bplus_enclosure_upper_without_gpio_2.0.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/RPI_3bplus_enclosure_upper_without_gpio_2.0.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/RPI_3bplus_enclosure_upper_without_gpio_2.0.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div style="display: flex">
+&lt;div style="width: 50%">
+&lt;h3>GPIO Cover&lt;span class="hx:absolute hx:-mt-20" id="gpio-cover">&lt;/span>
+&lt;a href="#gpio-cover" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>File&lt;/strong>: &lt;code>gpio_cover.STL&lt;/code> Cover for GPIO. Best of both worlds, clean look and easy access to GPIO&lt;/p>
+&lt;/div>
+&lt;div id="./models/gpio_cover.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById(".\/models\/gpio_cover.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = ".\/models\/gpio_cover.glb";
+const modelColor = "#3f4d52";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;h2>Thermal management&lt;span class="hx:absolute hx:-mt-20" id="thermal-management">&lt;/span>
+&lt;a href="#thermal-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This enclosure is designed to be used with passive cooling solution.&lt;/p>
+&lt;p>A 1mm copper plate between the CPU and the heatsink is needed to allow space for surrounding components.&lt;/p>
+&lt;h2>Material and print settings&lt;span class="hx:absolute hx:-mt-20" id="material-and-print-settings">&lt;/span>
+&lt;a href="#material-and-print-settings" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.&lt;/p>
+&lt;p>Screws are no longer needed&lt;/p>
+&lt;h2>Photos&lt;span class="hx:absolute hx:-mt-20" id="photos">&lt;/span>
+&lt;a href="#photos" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Version 1.0 without clearance for SD card removal&lt;/p>
+&lt;p>Printing settings:&lt;/p>
+&lt;ul>
+&lt;li>3D printer: Zortrax M200+&lt;/li>
+&lt;li>Material: Z-PLA Pro&lt;/li>
+&lt;li>Nozzle diameter: 0.4mm&lt;/li>
+&lt;li>High quality&lt;/li>
+&lt;li>Layer height: 0.09mm&lt;/li>
+&lt;li>Infill: 20%&lt;/li>
+&lt;li>No support&lt;/li>
+&lt;/ul>
+&lt;p>&lt;figure>
+&lt;img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/gpio.jpg?raw=true" title="Run button hole above jack connector" alt="“Run button hole above jack connector”" loading="lazy" />
+&lt;figcaption>Run button hole above jack connector&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/isometric.jpg?raw=true" title="Little issue with the GPIO border, was to tight. fixed." alt="“Little issue with the GPIO border, was to tight. fixed.”" loading="lazy" />
+&lt;figcaption>Little issue with the GPIO border, was to tight. fixed.&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/rpi3b.jpg?raw=true" title="Kapton tape is used to isolate heatsink from the board." alt="“Kapton tape is used to isolate heatsink from the board.”" loading="lazy" />
+&lt;figcaption>Kapton tape is used to isolate heatsink from the board.&lt;/figcaption>
+&lt;/figure>&lt;/p></description></item></channel></rss>

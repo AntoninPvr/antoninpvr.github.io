@@ -1,0 +1,150 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonin Pivard – Mechanical</title><link>https://antoninpvr.github.io/tags/mechanical/</link><description>Recent content in Mechanical on Antonin Pivard</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 27 Jun 2025 20:31:56 +0200</lastBuildDate><atom:link href="https://antoninpvr.github.io/tags/mechanical/index.xml" rel="self" type="application/rss+xml"/><item><title>Timing chain replacement Z22SE</title><link>https://antoninpvr.github.io/hardware/z22se_chain_tensioner/</link><pubDate>Fri, 27 Jun 2025 20:31:56 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/z22se_chain_tensioner/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/z22se_chain_tensioner/featured_hu_6ef42b61320b6cbd.jpg" width="640" height="482"/>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-purple-200 hx:bg-purple-100 hx:text-purple-900 hx:dark:border-purple-200/30 hx:dark:bg-purple-900/30 hx:dark:text-purple-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>&lt;/svg>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">This topic is not finished yet; I will add details on the tools I built, all the part references, and the torque specifications.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>The Z22SE engine, also known as the L61, is a 2.2 L naturally aspirated gasoline engine with indirect injection. In Europe, this engine is not very common because, in the early 2000s, diesel engines were extremely popular. It is notably known for being fitted to the Opel Speedster, and with its F23 gearbox, it can reliably handle the GM aftermarket supercharger kit. Nevertheless, it is a simple, robust, and easy-to-maintain engine—except for the early versions.&lt;/p>
+&lt;p>On the first version of this engine, the timing chain design had several weaknesses: the oil jet was too small, and the tensioner did not properly tension the chain. This led to numerous engine failures, sometimes even before 100 000 km.&lt;/p>
+&lt;p>Not long ago, I bought Vectra C, a car with this engine, fully aware of its known issues. This particular engine was affected, and when cold, it produced the characteristic rattling noise.&lt;/p>
+&lt;p>I won’t go too much into detail, as this topic is widely discussed on the internet. I’ll simply add a few tips that I would have liked to know beforehand.&lt;/p>
+&lt;h2>Tools:&lt;span class="hx:absolute hx:-mt-20" id="tools">&lt;/span>
+&lt;a href="#tools" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>At a minimum, you’ll need a jack, jack stands, a socket set, open-end wrenches, pliers, and locking pliers to hold the camshafts, a large tube to easily hold the camshafts while torquing them, and of course a torque wrench.&lt;/p>
+&lt;h2>Parts list&lt;span class="hx:absolute hx:-mt-20" id="parts-list">&lt;/span>
+&lt;a href="#parts-list" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>Timing chain: SKF-VKML 85003&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Balancer timing chain: SKF-VKML 85006&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Water pump: SKF-VKPC 85308&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gaskets and seal:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Crankshaft seal: GM-90571925&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Timining chain cover gasket: GM-24435052&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Valve cover gasket: GM-90537319&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>(Optional)&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Auxiliary belt: GM-24435940 it is as standard 5 stripes 1030mm&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tensioner: GM-24430296&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dumper pulley screw.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Oil and oil filter&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-5e9084c1866d0450e21a1a56e21e8121" class="zoom-checkbox">
+&lt;label for="zoom-5e9084c1866d0450e21a1a56e21e8121" class="zoom-thumb">
+&lt;img src="./img/old_timing_chain.jpg" alt="Old timing chain">
+&lt;/label>
+&lt;label for="zoom-5e9084c1866d0450e21a1a56e21e8121" class="zoom-overlay">
+&lt;img src="./img/old_timing_chain.jpg" alt="Old timing chain">
+&lt;/label>
+&lt;figcaption>&lt;p>Old timing chain, passenger side&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-1f43cc21a11b118753402d8ade1cc2ff" class="zoom-checkbox">
+&lt;label for="zoom-1f43cc21a11b118753402d8ade1cc2ff" class="zoom-thumb">
+&lt;img src="./img/balancer_chain.jpg" alt="Balancer chain">
+&lt;/label>
+&lt;label for="zoom-1f43cc21a11b118753402d8ade1cc2ff" class="zoom-overlay">
+&lt;img src="./img/balancer_chain.jpg" alt="Balancer chain">
+&lt;/label>
+&lt;figcaption>&lt;p>Balancer chain, that also drive water pump&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>The balancer chain seemed fine, but since I had already removed the cover, I replaced it at the same time as the water pump. The water pump was in perfect condition despite being 20 years old.&lt;/p>
+&lt;h2>Cover removal&lt;span class="hx:absolute hx:-mt-20" id="cover-removal">&lt;/span>
+&lt;a href="#cover-removal" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]">
+&lt;h3>Remove dumper pulley&lt;span class="hx:absolute hx:-mt-20" id="remove-dumper-pulley">&lt;/span>
+&lt;a href="#remove-dumper-pulley" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-green-200 hx:bg-green-100 hx:text-green-900 hx:dark:border-green-200/30 hx:dark:bg-green-900/30 hx:dark:text-green-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>&lt;/svg>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">You need a special tool to remove the damper pulley, but you can build one yourself.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>The damper pulley is extremely tight, and after many years it can be even harder to remove. Mine was a real pain, as it had never been replaced.&lt;/p>
+&lt;p>&lt;em>More on tool build later&lt;/em>&lt;/p>
+&lt;h3>Remove auxiliary belt tensioner&lt;span class="hx:absolute hx:-mt-20" id="remove-auxiliary-belt-tensioner">&lt;/span>
+&lt;a href="#remove-auxiliary-belt-tensioner" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>To remove the tensioner, you need a slim ratchet to loosen it. In my case, I had to unbolt the engine and gearbox mounts because the chassis was too close. By giving some freedom to the powertrain assembly, I could shift it slightly toward the driver’s side to gain a few precious millimeters.&lt;/p>
+&lt;p>Make sure to support the engine and gearbox from underneath. While lowering the engine, keep an eye on the two vacuum hoses on the front subframe to avoid crushing them.&lt;/p>
+&lt;h3>Pry the timing cover&lt;span class="hx:absolute hx:-mt-20" id="pry-the-timing-cover">&lt;/span>
+&lt;a href="#pry-the-timing-cover" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Try to gently pry the cover, as the gasket may be stuck after all these years. Avoid damaging the gasket surface while doing so.&lt;/p>
+&lt;/div>
+&lt;h2>Water pump removal&lt;span class="hx:absolute hx:-mt-20" id="water-pump-removal">&lt;/span>
+&lt;a href="#water-pump-removal" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]">
+&lt;h3>Sprocket removal&lt;span class="hx:absolute hx:-mt-20" id="sprocket-removal">&lt;/span>
+&lt;a href="#sprocket-removal" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-green-200 hx:bg-green-100 hx:text-green-900 hx:dark:border-green-200/30 hx:dark:bg-green-900/30 hx:dark:text-green-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>&lt;/svg>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">You need a special tool to remove the waterpump sproket before take it off the engine, but you can build one yourself also.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>This tool is the little brother of the pulley one.&lt;/p>
+&lt;p>&lt;em>More on tool build later&lt;/em>&lt;/p>
+&lt;p>Using the tool, hold the sprocket in place and remove the three screws. Keep it for reuse. It’s not ideal practice, but I wasn’t able to source a replacement.&lt;/p>
+&lt;h3>Empty the coolant&lt;span class="hx:absolute hx:-mt-20" id="empty-the-coolant">&lt;/span>
+&lt;a href="#empty-the-coolant" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The drain valve is on the bottom passenger side of the radiator.&lt;/p>
+&lt;p>There is also a drain plug below the water pump. It holds about 500 mL of coolant, so drain it before removing the hose.&lt;/p>
+&lt;h3>Rigid water hose&lt;span class="hx:absolute hx:-mt-20" id="rigid-water-hose">&lt;/span>
+&lt;a href="#rigid-water-hose" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>To remove this rigid hose, you need to take off the heater control valve. The temperature sensor may get in the way, so remove it as well — but be careful, it’s fragile (see below).&lt;/p>
+&lt;p>Then rotate the hose slightly and pull it off.&lt;/p>
+&lt;p>&lt;img src="./img/heater_control_valve.jpg" alt="“Heater control valve”" loading="lazy" />&lt;/p>
+&lt;h3>Remove the water pump&lt;span class="hx:absolute hx:-mt-20" id="remove-the-water-pump">&lt;/span>
+&lt;a href="#remove-the-water-pump" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;/div>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-2586ce4aa44b41ef909a833922f08348" class="zoom-checkbox">
+&lt;label for="zoom-2586ce4aa44b41ef909a833922f08348" class="zoom-thumb">
+&lt;img src="./img/new_water_pump.jpg" alt="The new water pump">
+&lt;/label>
+&lt;label for="zoom-2586ce4aa44b41ef909a833922f08348" class="zoom-overlay">
+&lt;img src="./img/new_water_pump.jpg" alt="The new water pump">
+&lt;/label>
+&lt;figcaption>&lt;p>The new water pump without its sprocket&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h2>Guide fiting&lt;span class="hx:absolute hx:-mt-20" id="guide-fiting">&lt;/span>
+&lt;a href="#guide-fiting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Replace the old tensioner with the new, updated one. In my SKF timing chain the tensioner was the new one.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-amber-200 hx:bg-amber-100 hx:text-amber-900 hx:dark:border-amber-200/30 hx:dark:bg-amber-900/30 hx:dark:text-amber-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>&lt;/svg>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">Plug the opening leading to the oil pan with a cloth to avoid dropping screws into the pan… (speaking from experience).&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Timing chain fiting&lt;span class="hx:absolute hx:-mt-20" id="timing-chain-fiting">&lt;/span>
+&lt;a href="#timing-chain-fiting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-74f7484f25206728f773bd61a057065f" class="zoom-checkbox">
+&lt;label for="zoom-74f7484f25206728f773bd61a057065f" class="zoom-thumb">
+&lt;img src="./img/up_new_timing_chain.jpg" alt="New timing chain">
+&lt;/label>
+&lt;label for="zoom-74f7484f25206728f773bd61a057065f" class="zoom-overlay">
+&lt;img src="./img/up_new_timing_chain.jpg" alt="New timing chain">
+&lt;/label>
+&lt;figcaption>&lt;p>New timing chain, along with its guides.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;p>To fit the timing chain, slide it in from the top and hold it in place with a screwdriver. Then install the crankshaft timing chain gear, followed by the overhead camshaft gears.&lt;/p>
+&lt;h2>Conclusion&lt;span class="hx:absolute hx:-mt-20" id="conclusion">&lt;/span>
+&lt;a href="#conclusion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This procedure does not require advanced skills; just take your time. I relied on the Haynes Owners Workshop Manual (ISBN-9781785210174), which provides clear instructions.&lt;/p></description></item></channel></rss>

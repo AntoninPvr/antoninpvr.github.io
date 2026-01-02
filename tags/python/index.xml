@@ -1,0 +1,300 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonin Pivard – Python</title><link>https://antoninpvr.github.io/tags/python/</link><description>Recent content in Python on Antonin Pivard</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 06 Feb 2025 16:45:15 +0200</lastBuildDate><atom:link href="https://antoninpvr.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>STL to GLB</title><link>https://antoninpvr.github.io/software/stl2glb/</link><pubDate>Thu, 06 Feb 2025 16:45:15 +0200</pubDate><guid>https://antoninpvr.github.io/software/stl2glb/</guid><description>
+&lt;img src="https://antoninpvr.github.io/software/stl2glb/featured_hu_d6f1961d58b41f9c.png" width="640" height="259"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/stl2glb"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+stl2glb&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Simple tool to convert stl model to glb files for easy web rendering.&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>no-release&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;p>This is a simple Python script that converts an STL file to a GLB file. It uses trimesh library to read and export the files.&lt;/p>
+&lt;p>This script support batch processing, it keeps the original file name and directory structure.&lt;/p>
+&lt;h3>Installation&lt;span class="hx:absolute hx:-mt-20" id="installation">&lt;/span>
+&lt;a href="#installation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>You need to have Python 3 installed in your system.&lt;/p>
+&lt;p>Its recommended to use a virtual environment to install the required libraries.&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">python -m venv venv
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">source&lt;/span> venv/bin/activate&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>You can install the required libraries by running:&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">pip install -r requirements.txt&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Usage&lt;span class="hx:absolute hx:-mt-20" id="usage">&lt;/span>
+&lt;a href="#usage" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>For converting a single file, you can run the script with the following command:&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">python ./stl2glb.py -i ./input_path/file.stl -o ./output_path/&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>For batch processing, you can run the script with the following command:&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-zsh" data-lang="zsh">&lt;span class="line">&lt;span class="cl">python ./stl2glb.py -i ./input_path/ -o ./output_path/&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Arguments&lt;span class="hx:absolute hx:-mt-20" id="arguments">&lt;/span>
+&lt;a href="#arguments" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;code>-i&lt;/code> or &lt;code>--input&lt;/code>: Path to the input file or directory.&lt;/li>
+&lt;li>&lt;code>-o&lt;/code> or &lt;code>--output&lt;/code>: Path to the output directory.&lt;/li>
+&lt;li>&lt;code>--log-level&lt;/code> (optional): Log level for the script. Default is &lt;code>WARNING&lt;/code>. Possible values are &lt;code>DEBUG&lt;/code>, &lt;code>INFO&lt;/code>, &lt;code>WARNING&lt;/code>, &lt;code>ERROR&lt;/code>, &lt;code>CRITICAL&lt;/code>.&lt;/li>
+&lt;li>&lt;code>-t&lt;/code> or &lt;code>--threads&lt;/code> (optional): Number of process to use. Default is 0 (auto mode).&lt;/li>
+&lt;/ul>
+&lt;h3>Caution&lt;span class="hx:absolute hx:-mt-20" id="caution">&lt;/span>
+&lt;a href="#caution" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-amber-200 hx:bg-amber-100 hx:text-amber-900 hx:dark:border-amber-200/30 hx:dark:bg-amber-900/30 hx:dark:text-amber-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>&lt;/svg>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">This script will overwrite the output files if they already exist.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>Performance&lt;span class="hx:absolute hx:-mt-20" id="performance">&lt;/span>
+&lt;a href="#performance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>These tests were done out of curiosity to explore the behavior of different ways to handle parallelism in Python. The first tests use Thread from &lt;code>concurrent.futures&lt;/code> to achieve parallelism, while the second use Process.&lt;/p>
+&lt;h4>Machine&lt;span class="hx:absolute hx:-mt-20" id="machine">&lt;/span>
+&lt;a href="#machine" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>CPU: Intel(R) Core(TM) i7-10875H (8c-16t) CPU @ 2.30GHz&lt;/li>
+&lt;li>RAM: 2x8GB DDR4-3200&lt;/li>
+&lt;li>OS: Ubuntu 24.04.1 LTS (6.8.0-52-generic)&lt;/li>
+&lt;li>Python: 3.12.3&lt;/li>
+&lt;/ul>
+&lt;p>Libraries:&lt;/p>
+&lt;ul>
+&lt;li>numpy: 2.2.2&lt;/li>
+&lt;li>trimesh: 4.6.1&lt;/li>
+&lt;/ul>
+&lt;h4>Measurements&lt;span class="hx:absolute hx:-mt-20" id="measurements">&lt;/span>
+&lt;a href="#measurements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div style="display: flex">
+&lt;p>The tests were done using 10001, 1001 and 101 files. Model used is &lt;a href="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/RPI_3bplus_enclosure_upper_2.0.STL"target="_blank" rel="noopener">RPI_3bplus_enclosure_upper_2.0.STL&lt;/a> from my &lt;a href="https://antoninpvr.github.io/posts/rpi_case/rpi3/">Raspberry PI 1-3 Enclosure project&lt;/a>, it contains 6,572 triangles and takes 321 kB.&lt;/p>
+&lt;div id="RPI_3bplus_enclosure_upper_2.0.glb" style="width: 30%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById("RPI_3bplus_enclosure_upper_2.0.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1.3333";
+const model_path = "RPI_3bplus_enclosure_upper_2.0.glb";
+const modelColor = "#6a6b66";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1.3333";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;p>The time is measured using the &lt;code>time&lt;/code> command in zsh.&lt;/p>
+&lt;p>Raw data are available &lt;a href="./stl2glb_raw_data.zip">here&lt;/a>&lt;/p>
+&lt;p>We can see that for this script, using processes is more efficient than using threads. Obviously the more files, the more useful parallelism is. For small workload (101 files), the difference is negligible. But for large workload (10001 files), the difference is significant.&lt;/p>
+&lt;div style="display: flex">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-3bec3832d18bc6ea0cf784dca4759c9b" class="zoom-checkbox">
+&lt;label for="zoom-3bec3832d18bc6ea0cf784dca4759c9b" class="zoom-thumb">
+&lt;img src="./img/Thread_Process_for_101_files.svg" alt="Process for 101 files">
+&lt;/label>
+&lt;label for="zoom-3bec3832d18bc6ea0cf784dca4759c9b" class="zoom-overlay">
+&lt;img src="./img/Thread_Process_for_101_files.svg" alt="Process for 101 files">
+&lt;/label>
+&lt;figcaption>&lt;p>Thread Process comparison for 101 files&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-f800387873ec0cf8b62ade71c3d900f6" class="zoom-checkbox">
+&lt;label for="zoom-f800387873ec0cf8b62ade71c3d900f6" class="zoom-thumb">
+&lt;img src="./img/Thread_Process_for_10001_files.svg" alt="Process for 10001 files">
+&lt;/label>
+&lt;label for="zoom-f800387873ec0cf8b62ade71c3d900f6" class="zoom-overlay">
+&lt;img src="./img/Thread_Process_for_10001_files.svg" alt="Process for 10001 files">
+&lt;/label>
+&lt;figcaption>&lt;p>Thread Process comparison for 10001 files&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>For threads, the sweet spot is around 8 threads, when using more performance decrease. It can be due to GIL that limit the performance of threads.&lt;/p>
+&lt;p>For processes, the sweet spot is around 16 processes. It can be due to the number of cores available on the machine. The difference between 16 and 8 is negligible, it can be due to I/O bounds but also the Turbo Boost. Because the more cores are used, the lower the frequency of each core. For large workload (10001 files) we can see that using 32 processes is a bit faster than using 16 processes. It can be due to the competition for cpu time between other processes running on the machine.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-a92c69130aa3e587446fa269f375ccb0" class="zoom-checkbox">
+&lt;label for="zoom-a92c69130aa3e587446fa269f375ccb0" class="zoom-thumb">
+&lt;img src="./img/Time_decrease_%28lower_is_better%29.svg" alt="Chart">
+&lt;/label>
+&lt;label for="zoom-a92c69130aa3e587446fa269f375ccb0" class="zoom-overlay">
+&lt;img src="./img/Time_decrease_%28lower_is_better%29.svg" alt="Chart">
+&lt;/label>
+&lt;figcaption>&lt;p>Time decrease (lower is better)&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h4>Conclusion&lt;span class="hx:absolute hx:-mt-20" id="conclusion">&lt;/span>
+&lt;a href="#conclusion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>I wrote this script to convert my STL files to GLB files for my website. The typical workload is around 100 files at a time when I update my website. It took around 1 second so parallelism is not really useful. But as we can see process are always faster than thread even for small workload. So I keep the parallelism with process as an option in the script.&lt;/p>
+&lt;p>By default, the script will try to use an optimal number of processes based on the number of cores available on the machine. But you can always specify the number of processes to use.&lt;/p>
+&lt;h5>Chart for process amount selection in automatic mode&lt;span class="hx:absolute hx:-mt-20" id="chart-for-process-amount-selection-in-automatic-mode">&lt;/span>
+&lt;a href="#chart-for-process-amount-selection-in-automatic-mode" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h5>&lt;pre class="mermaid hx:mt-6">
+flowchart TD
+A[Start] --&amp;gt; B{&amp;#34;len(input_files) &amp;lt; MIN_CHUNK_SIZE&amp;#34;}
+B --&amp;gt;|&amp;#34;True&amp;#34;| C[Single Process]
+B --&amp;gt;|&amp;#34;False&amp;#34;| D[&amp;#34;query_process = len(input_files) // MIN_CHUNK_SIZE&amp;#34;]
+D --&amp;gt; E{&amp;#34;query_process &amp;lt; available_core&amp;#34;}
+E --&amp;gt;|&amp;#34;True&amp;#34;| F[&amp;#34;query_process&amp;#34;]
+E --&amp;gt;|&amp;#34;False&amp;#34;| G[&amp;#34;available_core&amp;#34;]
+&lt;/pre></description></item><item><title>CSV to WAV</title><link>https://antoninpvr.github.io/software/csv2wav/</link><pubDate>Mon, 15 Jul 2024 12:00:00 +0200</pubDate><guid>https://antoninpvr.github.io/software/csv2wav/</guid><description>
+&lt;img src="https://antoninpvr.github.io/software/csv2wav/featured_hu_57371b017c76afe4.png" width="640" height="286"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/csv2wav"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+csv2wav&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">CSV file to WAV&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>no-release&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;p>This is a simple python script that converts a CSV file to a WAV file. Useful for listening to data produced by &lt;a href="https://github.com/OpenHantek/OpenHantek6022"target="_blank" rel="noopener">OpenHantek6022&lt;/a>.&lt;/p>
+&lt;h2>Usage&lt;span class="hx:absolute hx:-mt-20" id="usage">&lt;/span>
+&lt;a href="#usage" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>For instance just run python &lt;code>python csv2wav.py -i input.csv -o output.wav -t 0 -v 1&lt;/code>.&lt;/p>
+&lt;h2>Options&lt;span class="hx:absolute hx:-mt-20" id="options">&lt;/span>
+&lt;a href="#options" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;code>-i&lt;/code> or &lt;code>--input&lt;/code> : input CSV file default is &lt;code>record.csv&lt;/code>&lt;/li>
+&lt;li>&lt;code>-o&lt;/code> or &lt;code>--output&lt;/code> : output WAV file default is &lt;code>record.wav&lt;/code>&lt;/li>
+&lt;li>&lt;code>-t&lt;/code> or &lt;code>--time-field&lt;/code> : time column index in CSV file default is &lt;code>0&lt;/code>&lt;/li>
+&lt;li>&lt;code>-v&lt;/code> or &lt;code>--value-field&lt;/code> : value column index in CSV file default is &lt;code>1&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>Csv file can be generated by OpenHantek6022 by selecting the &amp;ldquo;Export CSV&amp;rdquo; option in the &amp;ldquo;Export&amp;rdquo; menu.&lt;/p>
+&lt;p>&lt;img src="https://github.com/AntoninPvr/csv2wav/blob/main/img/export_csv.png?raw=true" alt="exportCsv" loading="lazy" />&lt;/p></description></item></channel></rss>

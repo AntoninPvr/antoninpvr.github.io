@@ -1,0 +1,553 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonin Pivard – STL</title><link>https://antoninpvr.github.io/tags/stl/</link><description>Recent content in STL on Antonin Pivard</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Dec 2025 16:03:45 +0200</lastBuildDate><atom:link href="https://antoninpvr.github.io/tags/stl/index.xml" rel="self" type="application/rss+xml"/><item><title>Bench instruments spare parts</title><link>https://antoninpvr.github.io/hardware/bench_instruments_parts/</link><pubDate>Mon, 01 Dec 2025 16:03:45 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/bench_instruments_parts/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/bench_instruments_parts/featured_hu_74ca993a8d096b2b.jpg" width="640" height="360"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/bench_instruments_parts"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+bench_instruments_parts&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">3D-printed replacement part for bench instruments, for Tektronix, Hameg, Metrix&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>no-release&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;p>Some 3D printable parts that I designed to repair bench instruments like oscilloscopes, power supplies, signal generators&amp;hellip;&lt;/p>
+&lt;h2>Gallery&lt;span class="hx:absolute hx:-mt-20" id="gallery">&lt;/span>
+&lt;a href="#gallery" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="gallery">
+&lt;div id="coarse_hameg_knob_6.1mm_open_nut.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById("coarse_hameg_knob_6.1mm_open_nut.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1";
+const model_path = "coarse_hameg_knob_6.1mm_open_nut.glb";
+const modelColor = "#7c695a";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "left";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;div id="tm500_fine_knob_3mm.glb" style="width: 50%; height: 50%">
+&lt;/div>
+&lt;script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+}
+}
+&lt;/script>
+&lt;script type="module">
+import * as THREE from 'three';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
+let container;
+let camera, scene, renderer, clock;
+let mesh;
+let rotate, controls;
+init();
+render();
+function init() {
+container = document.getElementById("tm500_fine_knob_3mm.glb");
+container.onload = () => {
+onWindowResize();
+}
+const aspectRatio = "1";
+const model_path = "tm500_fine_knob_3mm.glb";
+const modelColor = "#5a5248";
+rotate = "true" === "true";
+renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+container.appendChild(renderer.domElement);
+camera = new THREE.PerspectiveCamera(45, aspectRatio, 0.1, 1000);
+camera.position.set(1, 0, 1);
+camera.lookAt(0, 0, 0);
+controls = new OrbitControls(camera, renderer.domElement);
+controls.addEventListener('change', render);
+controls.minDistance = 1;
+controls.maxDistance = 10;
+controls.target.set(0, 0, 0);
+controls.update();
+const environment = new RoomEnvironment(renderer);
+const pmremGenerator = new THREE.PMREMGenerator(renderer);
+scene = new THREE.Scene();
+scene.environment = pmremGenerator.fromScene(environment).texture;
+const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+scene.add(ambientLight);
+const light1 = new THREE.PointLight( 0xffeeee, 50, 0);
+light1.position.set( 0, 2, 1 );
+light1.castShadow = true;
+scene.add( light1 );
+const loader = new GLTFLoader();
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('/examples/jsm/libs/draco/');
+loader.setMeshoptDecoder(MeshoptDecoder);
+loader.setDRACOLoader(dracoLoader);
+loader.load(model_path, function (gltf) {
+const root = gltf.scene;
+const box = new THREE.Box3().setFromObject(root);
+const size = box.getSize(new THREE.Vector3());
+const center = box.getCenter(new THREE.Vector3());
+root.position.x += (root.position.x - center.x);
+root.position.y += (root.position.y - center.y);
+root.position.z += (root.position.z - center.z);
+mesh = new THREE.Group();
+mesh.add(root);
+if (modelColor &amp;&amp; modelColor !== "") {
+root.traverse((child) => {
+if (child.isMesh) {
+child.material.color.set(modelColor);
+child.material.roughness = 0.8;
+child.material.metalness = 0.2;
+}
+});
+}
+root.traverse((child) => {
+if (child.isMesh) {
+child.castShadow = true;
+child.receiveShadow = true;
+}
+});
+const maxSize = Math.max(size.x, size.y, size.z);
+mesh.scale.set(1 / maxSize, 1 / maxSize, 1 / maxSize);
+scene.add(mesh);
+if ( rotate ) {
+clock = new THREE.Clock();
+renderer.setAnimationLoop( animate );
+controls.addEventListener( 'start', () => rotate = false );
+controls.addEventListener( 'end', () => rotate = true );
+}
+render();
+});
+window.addEventListener('resize', onWindowResize);
+}
+function onWindowResize() {
+const aspectRatio = "1";
+camera.aspect = aspectRatio;
+camera.updateProjectionMatrix();
+renderer.setSize(container.clientWidth, container.clientWidth / aspectRatio);
+render();
+}
+function render() {
+renderer.render(scene, camera);
+}
+function animate() {
+const delta = clock.getDelta();
+const direction = "right";
+if ( rotate &amp;&amp; mesh ) {
+const ry = 0.5;
+if (direction === "left") {
+mesh.rotation.y -= delta * ry;
+} else {
+mesh.rotation.y += delta * ry;
+}
+render();
+}
+}
+&lt;/script>
+&lt;/div>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-green-200 hx:bg-green-100 hx:text-green-900 hx:dark:border-green-200/30 hx:dark:bg-green-900/30 hx:dark:text-green-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>&lt;/svg>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">Realized parts will be added later&amp;hellip;&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Parts list&lt;span class="hx:absolute hx:-mt-20" id="parts-list">&lt;/span>
+&lt;a href="#parts-list" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Tektronix&lt;span class="hx:absolute hx:-mt-20" id="tektronix">&lt;/span>
+&lt;a href="#tektronix" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>AWG2020&lt;span class="hx:absolute hx:-mt-20" id="awg2020">&lt;/span>
+&lt;a href="#awg2020" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/awg2020_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="AWG2020 Control Knob"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/awg2020_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">AWG2020 Control Knob&lt;/span>&lt;/a>
+&lt;/div>
+&lt;h4>TM504 / TM500 Series Parts&lt;span class="hx:absolute hx:-mt-20" id="tm504--tm500-series-parts">&lt;/span>
+&lt;a href="#tm504--tm500-series-parts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/back_spacer_tm504.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Back Spacer"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/back_spacer_tm504.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Back Spacer&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/foot_tm504.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Foot"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/foot_tm504.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Foot&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/side_foot_tm504.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Side Foot"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/side_foot_tm504.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Side Foot&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/slider_tm504.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Slider"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/slider_tm504.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Slider&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/support_heatsink.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Support Heatsink"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/support_heatsink.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Support Heatsink&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/support_tm500_flush.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Support TM500 (Flush)"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/support_tm500_flush.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Support TM500 (Flush)&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/support_tm500.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Support TM500"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/support_tm500.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Support TM500&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/tm500_BJT_cover.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="TM500 BJT Cover"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/tm500_BJT_cover.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">TM500 BJT Cover&lt;/span>&lt;/a>
+&lt;/div>
+&lt;h4>TM500 Knobs / Buttons&lt;span class="hx:absolute hx:-mt-20" id="tm500-knobs--buttons">&lt;/span>
+&lt;a href="#tm500-knobs--buttons" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/tm500_fine_knob_3mm.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="TM500 Fine Knob 3mm"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/tm500_fine_knob_3mm.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">TM500 Fine Knob 3mm&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/tm500_fine_knob_line_3mm.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="TM500 Fine Line Knob"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/tm500_fine_knob_line_3mm.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">TM500 Fine Line Knob&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/tm500_pull_on_power.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="TM500 Pull-On Power"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/tm500_pull_on_power.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">TM500 Pull-On Power&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/tm500_switch_coupler.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="TM500 Switch Coupler"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/tm500_switch_coupler.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">TM500 Switch Coupler&lt;/span>&lt;/a>
+&lt;/div>
+&lt;h4>Misc&lt;span class="hx:absolute hx:-mt-20" id="misc">&lt;/span>
+&lt;a href="#misc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/tektronix/to3_cover.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="TO-3 Cover"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/tektronix/to3_cover.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">TO-3 Cover&lt;/span>&lt;/a>
+&lt;/div>
+&lt;h3>Hameg&lt;span class="hx:absolute hx:-mt-20" id="hameg">&lt;/span>
+&lt;a href="#hameg" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Coarse Knobs&lt;span class="hx:absolute hx:-mt-20" id="coarse-knobs">&lt;/span>
+&lt;a href="#coarse-knobs" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/coarse_hameg_knob_6.1mm_open_nut.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Coarse Hameg Knob 6.1mm (open)"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/coarse_hameg_knob_6.1mm_open_nut.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Coarse Hameg Knob 6.1mm (open)&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/coarse_hameg_knob_6.1mm.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Coarse Hameg Knob 6.1mm"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/coarse_hameg_knob_6.1mm.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Coarse Hameg Knob 6.1mm&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/coarse_hameg_knob_6mm.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Coarse Hameg Knob 6mm"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/coarse_hameg_knob_6mm.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Coarse Hameg Knob 6mm&lt;/span>&lt;/a>
+&lt;/div>
+&lt;h4>Fine Knobs (Arrow Shape / Dot / Flat / Line)&lt;span class="hx:absolute hx:-mt-20" id="fine-knobs-arrow-shape--dot--flat--line">&lt;/span>
+&lt;a href="#fine-knobs-arrow-shape--dot--flat--line" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_arrow_hameg_2mm_knob_D.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Arrow 2mm (D-shaft)"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_arrow_hameg_2mm_knob_D.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Arrow 2mm (D-shaft)&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_arrow_hameg_2mm_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Arrow 2mm"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_arrow_hameg_2mm_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Arrow 2mm&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_arrow_hameg_D_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Arrow D-Knob"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_arrow_hameg_D_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Arrow D-Knob&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_dot_hameg_2mm_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Dot 2mm"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_dot_hameg_2mm_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Dot 2mm&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_dot_hameg_D_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Dot D-Knob"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_dot_hameg_D_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Dot D-Knob&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_flat_hameg_2mm_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Flat 2mm"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_flat_hameg_2mm_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Flat 2mm&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_flat_hameg_D_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Flat D-Knob"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_flat_hameg_D_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Flat D-Knob&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_line_hameg_2mm_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Line 2mm"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_line_hameg_2mm_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Line 2mm&lt;/span>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/fine_line_hameg_D_knob.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Fine Line D-Knob"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/fine_line_hameg_D_knob.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Fine Line D-Knob&lt;/span>&lt;/a>
+&lt;/div>
+&lt;h4>Buttons&lt;span class="hx:absolute hx:-mt-20" id="buttons">&lt;/span>
+&lt;a href="#buttons" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/hameg/push_hameg.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Push Button"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/hameg/push_hameg.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Push Button&lt;/span>&lt;/a>
+&lt;/div>
+&lt;h3>Metrix&lt;span class="hx:absolute hx:-mt-20" id="metrix">&lt;/span>
+&lt;a href="#metrix" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"href="https://github.com/AntoninPvr/bench_instruments_parts/blob/main/metrix/foot_gx229.stl"
+target="_blank" rel="noreferrer">&lt;img
+alt="Foot GX229"
+class="hextra-card-image"
+loading="lazy"
+decoding="async"
+src="https://raw.githubusercontent.com/AntoninPvr/bench_instruments_parts/main/thumbnails/metrix/foot_gx229.png"
+/>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Foot GX229&lt;/span>&lt;/a>
+&lt;/div></description></item></channel></rss>

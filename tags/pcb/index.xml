@@ -1,0 +1,875 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonin Pivard – PCB</title><link>https://antoninpvr.github.io/tags/pcb/</link><description>Recent content in PCB on Antonin Pivard</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 16 Aug 2024 11:13:02 +0200</lastBuildDate><atom:link href="https://antoninpvr.github.io/tags/pcb/index.xml" rel="self" type="application/rss+xml"/><item><title>F1Tenth Powerboard</title><link>https://antoninpvr.github.io/hardware/f1tenth_powerboard/</link><pubDate>Fri, 16 Aug 2024 11:13:02 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/f1tenth_powerboard/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/f1tenth_powerboard/featured_hu_d4ae9b72c3f118f8.png" width="640" height="861"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/F1Tenth_powerboard"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+F1Tenth_powerboard&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Power distribution board for the F1Tenth car, initially developed for the Czech Technical University.&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>2.3.5&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;hr>
+&lt;h2>Context&lt;span class="hx:absolute hx:-mt-20" id="context">&lt;/span>
+&lt;a href="#context" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Roboracer formerly known as F1Tenth is a popular open-source challenge in which participants program an autonomous 1/10th scale car. A list of official hardware components is provided but participants are free to design and use their own custom parts. Throughout the years, signle board computers (SBC) were updated to more powerful models, and additional sensors were added to the car. But the power distribution board remained mostly unchanged, and the developpement seemed to be abandoned (last release in 2020).
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/mlab-upenn/f1tenthpublic"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+f1tenthpublic&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">GitHub repository&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>no-release&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;/p>
+&lt;p>During my 2024 internship in CIIRC at Czech Technical University, I had the opportunity to design a new power distribution board. The goal was to implement features based on the feedback from the researchers using the F1Tenth platform.&lt;/p>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-864fcd2fcd32cba120a2bbdcf4a79d7f" class="zoom-checkbox">
+&lt;label for="zoom-864fcd2fcd32cba120a2bbdcf4a79d7f" class="zoom-thumb">
+&lt;img src="./img/old_pb.png" alt="Very old powerboard">
+&lt;/label>
+&lt;label for="zoom-864fcd2fcd32cba120a2bbdcf4a79d7f" class="zoom-overlay">
+&lt;img src="./img/old_pb.png" alt="Very old powerboard">
+&lt;/label>
+&lt;figcaption>&lt;p>Very old powerboard&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-b9905b0b7f9f12f700f7a950a6512c66" class="zoom-checkbox">
+&lt;label for="zoom-b9905b0b7f9f12f700f7a950a6512c66" class="zoom-thumb">
+&lt;img src="./img/new_pb.png" alt="Old powerboard">
+&lt;/label>
+&lt;label for="zoom-b9905b0b7f9f12f700f7a950a6512c66" class="zoom-overlay">
+&lt;img src="./img/new_pb.png" alt="Old powerboard">
+&lt;/label>
+&lt;figcaption>&lt;p>Old powerboard&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h2>Objectives&lt;span class="hx:absolute hx:-mt-20" id="objectives">&lt;/span>
+&lt;a href="#objectives" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Researchers reported several issues, one of the most inconvenient if the necessity to power down the whole car when switching batteries. It annoying during testing sessions, as it requires to restart the SBC and all components and sometimes causes calibration loss. Another issue is the high power consumption of peripherals connected to the SBC USB ports, which can lead to instability and crashes.&lt;/p>
+&lt;p>Thus, new powerboard must meet the following requirements:&lt;/p>
+&lt;ul>
+&lt;li>Distribute the power from two batteries to all
+components.&lt;/li>
+&lt;li>Integrate an USB power port to power the USB Hub and reduce the load on the SBC.&lt;/li>
+&lt;li>Integrate more power connectors for future components.&lt;/li>
+&lt;/ul>
+&lt;h2>Design&lt;span class="hx:absolute hx:-mt-20" id="design">&lt;/span>
+&lt;a href="#design" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Following the specifications, I designed the schematic and PCB using KiCad. Features are:&lt;/p>
+&lt;ul>
+&lt;li>ORing circuitry&lt;/li>
+&lt;li>Buck converter for 5V USB supply&lt;/li>
+&lt;li>Connector for Jetson dev board&lt;/li>
+&lt;li>Connector for VESC 6 mk5&lt;/li>
+&lt;li>Connectors for batteries&lt;/li>
+&lt;/ul>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-572e8208785359ed8a92e7089150693b" class="zoom-checkbox">
+&lt;label for="zoom-572e8208785359ed8a92e7089150693b" class="zoom-thumb">
+&lt;img src="./img/electrical_chart.svg" alt="Schematic diagram">
+&lt;/label>
+&lt;label for="zoom-572e8208785359ed8a92e7089150693b" class="zoom-overlay">
+&lt;img src="./img/electrical_chart.svg" alt="Schematic diagram">
+&lt;/label>
+&lt;figcaption>&lt;p>Schematic diagram&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h3>ORing&lt;span class="hx:absolute hx:-mt-20" id="oring">&lt;/span>
+&lt;a href="#oring" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Principle&lt;span class="hx:absolute hx:-mt-20" id="principle">&lt;/span>
+&lt;a href="#principle" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Basic ORing circuitry can be implemented with two diodes (see Figure:
+Basic ORing with Diodes). This solution is simple and inexpensive, but
+it has a major drawback: forward voltage drop.&lt;/p>
+&lt;p>Even Schottky diodes cannot go below approximately 0.3 V (see Figure:
+Schottky Diode Forward Voltages).&lt;/p>
+&lt;p>A better solution is to use MOSFETs in their ohmic region (also called
+the triode region), where they behave like low-value resistors. Using a
+MOSFET with very low Rds(on) allows reducing the voltage drop to just a
+few millivolts. For example, the Infineon IAUCN04S7L005 has an Rds(on)
+of about 0.5 mΩ according to the datasheet.&lt;/p>
+&lt;p>Voltage drop across the MOSFET:&lt;/p>
+&lt;span class="katex-display">&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.16em" columnspacing="1em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;msub>&lt;mi>V&lt;/mi>&lt;mrow>&lt;mi>d&lt;/mi>&lt;mi>r&lt;/mi>&lt;mi>o&lt;/mi>&lt;mi>p&lt;/mi>&lt;/mrow>&lt;/msub>&lt;mo>=&lt;/mo>&lt;msub>&lt;mi>I&lt;/mi>&lt;mrow>&lt;mi>l&lt;/mi>&lt;mi>o&lt;/mi>&lt;mi>a&lt;/mi>&lt;mi>d&lt;/mi>&lt;/mrow>&lt;/msub>&lt;mo>×&lt;/mo>&lt;msub>&lt;mi>R&lt;/mi>&lt;mrow>&lt;mi>d&lt;/mi>&lt;mi>s&lt;/mi>&lt;mo stretchy="false">(&lt;/mo>&lt;mi>o&lt;/mi>&lt;mi>n&lt;/mi>&lt;mo stretchy="false">)&lt;/mo>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
+\begin{equation}
+V_{drop} = I_{load} \times R_{ds(on)}
+\end{equation}
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:1.2em;vertical-align:-0.35em;">&lt;/span>&lt;span class="mtable">&lt;span class="col-align-c">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.85em;">&lt;span style="top:-3.01em;">&lt;span class="pstrut" style="height:3em;">&lt;/span>&lt;span class="mord">&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.22222em;">V&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight">d&lt;/span>&lt;span class="mord mathnormal mtight">ro&lt;/span>&lt;span class="mord mathnormal mtight">p&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.2861em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.07847em;">I&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.0785em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.01968em;">l&lt;/span>&lt;span class="mord mathnormal mtight">o&lt;/span>&lt;span class="mord mathnormal mtight">a&lt;/span>&lt;span class="mord mathnormal mtight">d&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mbin">×&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.00773em;">R&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3448em;">&lt;span style="top:-2.5198em;margin-left:-0.0077em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight">d&lt;/span>&lt;span class="mord mathnormal mtight">s&lt;/span>&lt;span class="mopen mtight">(&lt;/span>&lt;span class="mord mathnormal mtight">o&lt;/span>&lt;span class="mord mathnormal mtight">n&lt;/span>&lt;span class="mclose mtight">)&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3552em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.35em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="tag">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.85em;">&lt;span style="top:-2.85em;">&lt;span class="pstrut" style="height:2.84em;">&lt;/span>&lt;span class="eqn-num">&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.35em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;p>Power Loss in the MOSFET:&lt;/p>
+&lt;span class="katex-display">&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.16em" columnspacing="1em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;msub>&lt;mi>P&lt;/mi>&lt;mrow>&lt;mi>l&lt;/mi>&lt;mi>o&lt;/mi>&lt;mi>s&lt;/mi>&lt;mi>s&lt;/mi>&lt;/mrow>&lt;/msub>&lt;mo>=&lt;/mo>&lt;msubsup>&lt;mi>I&lt;/mi>&lt;mrow>&lt;mi>l&lt;/mi>&lt;mi>o&lt;/mi>&lt;mi>a&lt;/mi>&lt;mi>d&lt;/mi>&lt;/mrow>&lt;mn>2&lt;/mn>&lt;/msubsup>&lt;mo>×&lt;/mo>&lt;msub>&lt;mi>R&lt;/mi>&lt;mrow>&lt;mi>d&lt;/mi>&lt;mi>s&lt;/mi>&lt;mo stretchy="false">(&lt;/mo>&lt;mi>o&lt;/mi>&lt;mi>n&lt;/mi>&lt;mo stretchy="false">)&lt;/mo>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
+\begin{equation}
+P_{loss} = I_{load}^2 \times R_{ds(on)}
+\end{equation}
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:1.2241em;vertical-align:-0.3621em;">&lt;/span>&lt;span class="mtable">&lt;span class="col-align-c">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.8621em;">&lt;span style="top:-2.9979em;">&lt;span class="pstrut" style="height:3em;">&lt;/span>&lt;span class="mord">&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.13889em;">P&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.01968em;">l&lt;/span>&lt;span class="mord mathnormal mtight">oss&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.07847em;">I&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.8641em;">&lt;span style="top:-2.453em;margin-left:-0.0785em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.01968em;">l&lt;/span>&lt;span class="mord mathnormal mtight">o&lt;/span>&lt;span class="mord mathnormal mtight">a&lt;/span>&lt;span class="mord mathnormal mtight">d&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span style="top:-3.113em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">2&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.247em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mbin">×&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.00773em;">R&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3448em;">&lt;span style="top:-2.5198em;margin-left:-0.0077em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight">d&lt;/span>&lt;span class="mord mathnormal mtight">s&lt;/span>&lt;span class="mopen mtight">(&lt;/span>&lt;span class="mord mathnormal mtight">o&lt;/span>&lt;span class="mord mathnormal mtight">n&lt;/span>&lt;span class="mclose mtight">)&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3552em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3621em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="tag">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.8621em;">&lt;span style="top:-2.8621em;">&lt;span class="pstrut" style="height:2.8641em;">&lt;/span>&lt;span class="eqn-num">&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3621em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;p>As VESC 6 mk5 can draw up to 60A continuously, let consider a 60A load.
+MOSFET datasheet provide a maximum Rds(on) of 0.52mΩ for 10V Vgs. Therefore:&lt;/p>
+&lt;span class="katex-display">&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.16em" columnspacing="1em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;msub>&lt;mi>V&lt;/mi>&lt;mrow>&lt;mi>d&lt;/mi>&lt;mi>r&lt;/mi>&lt;mi>o&lt;/mi>&lt;mi>p&lt;/mi>&lt;/mrow>&lt;/msub>&lt;mo>=&lt;/mo>&lt;mn>60&lt;/mn>&lt;mo>×&lt;/mo>&lt;mn>0.52&lt;/mn>&lt;mi>m&lt;/mi>&lt;mi mathvariant="normal">Ω&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>31.2&lt;/mn>&lt;mi>m&lt;/mi>&lt;mi>V&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
+\begin{equation}
+V_{drop} = 60 \times 0.52m\Omega = 31.2mV
+\end{equation}
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:1.2em;vertical-align:-0.35em;">&lt;/span>&lt;span class="mtable">&lt;span class="col-align-c">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.85em;">&lt;span style="top:-3.01em;">&lt;span class="pstrut" style="height:3em;">&lt;/span>&lt;span class="mord">&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.22222em;">V&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight">d&lt;/span>&lt;span class="mord mathnormal mtight">ro&lt;/span>&lt;span class="mord mathnormal mtight">p&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.2861em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">60&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mbin">×&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mord">0.52&lt;/span>&lt;span class="mord mathnormal">m&lt;/span>&lt;span class="mord">Ω&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">31.2&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.22222em;">mV&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.35em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="tag">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.85em;">&lt;span style="top:-2.85em;">&lt;span class="pstrut" style="height:2.84em;">&lt;/span>&lt;span class="eqn-num">&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.35em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="katex-display">&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.16em" columnspacing="1em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;msub>&lt;mi>P&lt;/mi>&lt;mrow>&lt;mi>l&lt;/mi>&lt;mi>o&lt;/mi>&lt;mi>s&lt;/mi>&lt;mi>s&lt;/mi>&lt;/mrow>&lt;/msub>&lt;mo>=&lt;/mo>&lt;mo stretchy="false">(&lt;/mo>&lt;mn>60&lt;/mn>&lt;mi>A&lt;/mi>&lt;msup>&lt;mo stretchy="false">)&lt;/mo>&lt;mn>2&lt;/mn>&lt;/msup>&lt;mo>×&lt;/mo>&lt;mn>0.52&lt;/mn>&lt;mi>m&lt;/mi>&lt;mi mathvariant="normal">Ω&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>1.872&lt;/mn>&lt;mi>W&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
+\begin{equation}
+P_{loss} = (60A)^2 \times 0.52m\Omega = 1.872W
+\end{equation}
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:1.2241em;vertical-align:-0.3621em;">&lt;/span>&lt;span class="mtable">&lt;span class="col-align-c">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.8621em;">&lt;span style="top:-2.9979em;">&lt;span class="pstrut" style="height:3em;">&lt;/span>&lt;span class="mord">&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.13889em;">P&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.01968em;">l&lt;/span>&lt;span class="mord mathnormal mtight">oss&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mopen">(&lt;/span>&lt;span class="mord">60&lt;/span>&lt;span class="mord mathnormal">A&lt;/span>&lt;span class="mclose">&lt;span class="mclose">)&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.8641em;">&lt;span style="top:-3.113em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">2&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mbin">×&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mord">0.52&lt;/span>&lt;span class="mord mathnormal">m&lt;/span>&lt;span class="mord">Ω&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">1.872&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.13889em;">W&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3621em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="tag">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.8621em;">&lt;span style="top:-2.8621em;">&lt;span class="pstrut" style="height:2.8641em;">&lt;/span>&lt;span class="eqn-num">&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3621em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;p>For comparison, APT100S20LCT Schottky have a forward voltage around 0.7V for 60A:&lt;/p>
+&lt;span class="katex-display">&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.16em" columnspacing="1em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;msub>&lt;mi>P&lt;/mi>&lt;mrow>&lt;mi>l&lt;/mi>&lt;mi>o&lt;/mi>&lt;mi>s&lt;/mi>&lt;mi>s&lt;/mi>&lt;/mrow>&lt;/msub>&lt;mo>=&lt;/mo>&lt;mn>60&lt;/mn>&lt;mi>A&lt;/mi>&lt;mo>×&lt;/mo>&lt;mn>0.7&lt;/mn>&lt;mi>V&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>42&lt;/mn>&lt;mi>W&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
+\begin{equation}
+P_{loss} = 60A \times 0.7V = 42W
+\end{equation}
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:1.2em;vertical-align:-0.35em;">&lt;/span>&lt;span class="mtable">&lt;span class="col-align-c">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.85em;">&lt;span style="top:-3.01em;">&lt;span class="pstrut" style="height:3em;">&lt;/span>&lt;span class="mord">&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.13889em;">P&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.01968em;">l&lt;/span>&lt;span class="mord mathnormal mtight">oss&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">60&lt;/span>&lt;span class="mord mathnormal">A&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mbin">×&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mord">0.7&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.22222em;">V&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">42&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.13889em;">W&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.35em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="tag">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.85em;">&lt;span style="top:-2.85em;">&lt;span class="pstrut" style="height:2.84em;">&lt;/span>&lt;span class="eqn-num">&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.35em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-7ceee0df2a5adaa0e52febe4957f8db4" class="zoom-checkbox">
+&lt;label for="zoom-7ceee0df2a5adaa0e52febe4957f8db4" class="zoom-thumb">
+&lt;img src="img/APT100S20LCT.png" alt="Characteristics of APT100S20LCT 120A Schottky diode.">
+&lt;/label>
+&lt;label for="zoom-7ceee0df2a5adaa0e52febe4957f8db4" class="zoom-overlay">
+&lt;img src="img/APT100S20LCT.png" alt="Characteristics of APT100S20LCT 120A Schottky diode.">
+&lt;/label>
+&lt;figcaption>&lt;p>APT100S20LCT 120A Schottky diode.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-12824e0c9a6be35adf22bf1605c60e5d" class="zoom-checkbox">
+&lt;label for="zoom-12824e0c9a6be35adf22bf1605c60e5d" class="zoom-thumb">
+&lt;img src="img/TSUP12H100H.png" alt="Characteristics of TSUP12H100H 12A Schottky diode.">
+&lt;/label>
+&lt;label for="zoom-12824e0c9a6be35adf22bf1605c60e5d" class="zoom-overlay">
+&lt;img src="img/TSUP12H100H.png" alt="Characteristics of TSUP12H100H 12A Schottky diode.">
+&lt;/label>
+&lt;figcaption>&lt;p>TSUP12H100H 12A Schottky diode.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h4>Ideal diode driver&lt;span class="hx:absolute hx:-mt-20" id="ideal-diode-driver">&lt;/span>
+&lt;a href="#ideal-diode-driver" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>To ensure the MOSFET is in its ohmic region, a driver is needed. The driver should provide enough voltage to turn on the MOSFET and enough current to charge the gate capacitance quickly. The IC must drive the transistor to behave like an ideal diode. Off when Anode voltage is lower than Cathode voltage and on when Anode voltage is higher than Cathode voltage. The LM74700 &lt;a href="#ref-LM74700" class="citation">[1]&lt;/a>
+from Texas Instruments is a good candidate. It is rated for 3.2V to 65V input and thank to its internal charge pump it can provide up to 15V &lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML">&lt;semantics>&lt;mrow>&lt;msub>&lt;mi>V&lt;/mi>&lt;mrow>&lt;mi>G&lt;/mi>&lt;mi>S&lt;/mi>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;annotation encoding="application/x-tex">V_{GS}&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:0.8333em;vertical-align:-0.15em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.22222em;">V&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3283em;">&lt;span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.05764em;">GS&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span> to the MOSFET. It can also be enable or disable with a logic signal. This feature can be used to add shutdown functionality to the power board. This give the following schematic: \cref{fig:oring_lm74700}.&lt;/p>
+&lt;h4>Thermal considerations&lt;span class="hx:absolute hx:-mt-20" id="thermal-considerations">&lt;/span>
+&lt;a href="#thermal-considerations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>As MOSFET IAUCN04S7L005 is an SMD compoenent in a PG-TDSON-8-43 package its thermal resistance
+is closely related to the PCB design. However datasheet &lt;a href="#ref-IAUCN04S7L005" class="citation">[2]&lt;/a>
+provide a junction to ambient
+thermal resistance of &lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML">&lt;semantics>&lt;mrow>&lt;msub>&lt;mi>R&lt;/mi>&lt;mtext>thJA&lt;/mtext>&lt;/msub>&lt;mo>=&lt;/mo>&lt;mn>26&lt;/mn>&lt;mi>K&lt;/mi>&lt;mi mathvariant="normal">/&lt;/mi>&lt;mi>W&lt;/mi>&lt;/mrow>&lt;annotation encoding="application/x-tex">R_{\text{thJA}} = 26K/W&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:0.8333em;vertical-align:-0.15em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.00773em;">R&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord text mtight">&lt;span class="mord mtight">thJA&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;/span>&lt;span class="base">&lt;span class="strut" style="height:1em;vertical-align:-0.25em;">&lt;/span>&lt;span class="mord">26&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.07153em;">K&lt;/span>&lt;span class="mord">/&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.13889em;">W&lt;/span>&lt;/span>&lt;/span>&lt;/span>. Therefore, if the MOSFET is dissipating 1.872W
+the temperature rise will be:&lt;/p>
+&lt;span class="katex-display">&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.16em" columnspacing="1em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;msub>&lt;mi>T&lt;/mi>&lt;mrow>&lt;mi>r&lt;/mi>&lt;mi>i&lt;/mi>&lt;mi>s&lt;/mi>&lt;mi>e&lt;/mi>&lt;/mrow>&lt;/msub>&lt;mo>=&lt;/mo>&lt;mn>1.872&lt;/mn>&lt;mi>W&lt;/mi>&lt;mo>×&lt;/mo>&lt;mn>26&lt;/mn>&lt;mi>K&lt;/mi>&lt;mi mathvariant="normal">/&lt;/mi>&lt;mi>W&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>48.672&lt;/mn>&lt;mi>K&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
+\begin{equation}
+T_{rise} = 1.872W \times 26K/W = 48.672K
+\end{equation}
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:1.2em;vertical-align:-0.35em;">&lt;/span>&lt;span class="mtable">&lt;span class="col-align-c">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.85em;">&lt;span style="top:-3.01em;">&lt;span class="pstrut" style="height:3em;">&lt;/span>&lt;span class="mord">&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.13889em;">T&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3117em;">&lt;span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.02778em;">r&lt;/span>&lt;span class="mord mathnormal mtight">i&lt;/span>&lt;span class="mord mathnormal mtight">se&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">1.872&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.13889em;">W&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mbin">×&lt;/span>&lt;span class="mspace" style="margin-right:0.2222em;">&lt;/span>&lt;span class="mord">26&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.07153em;">K&lt;/span>&lt;span class="mord">/&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.13889em;">W&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mrel">=&lt;/span>&lt;span class="mspace" style="margin-right:0.2778em;">&lt;/span>&lt;span class="mord">48.672&lt;/span>&lt;span class="mord mathnormal" style="margin-right:0.07153em;">K&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.35em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="tag">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.85em;">&lt;span style="top:-2.85em;">&lt;span class="pstrut" style="height:2.84em;">&lt;/span>&lt;span class="eqn-num">&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.35em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;p>For a 25°C ambient temperature, the junction temperature will be around 75°C. This will not
+be a problem for the MOSFET as its maximum operating junction temperature is 175°C. And in real life
+the PCB will cool the MOSFET even more.&lt;/p>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-ec9c3d29be3700b30e3c176c8623c501" class="zoom-checkbox">
+&lt;label for="zoom-ec9c3d29be3700b30e3c176c8623c501" class="zoom-thumb">
+&lt;img src="img/oring_diodes.png" alt="Basic ORing with diodes.">
+&lt;/label>
+&lt;label for="zoom-ec9c3d29be3700b30e3c176c8623c501" class="zoom-overlay">
+&lt;img src="img/oring_diodes.png" alt="Basic ORing with diodes.">
+&lt;/label>
+&lt;figcaption>&lt;p>Basic ORing with diodes.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-5258a3c255168817c38e617494708b96" class="zoom-checkbox">
+&lt;label for="zoom-5258a3c255168817c38e617494708b96" class="zoom-thumb">
+&lt;img src="img/oring_74700.png" alt="Ideal diode with LM74700.">
+&lt;/label>
+&lt;label for="zoom-5258a3c255168817c38e617494708b96" class="zoom-overlay">
+&lt;img src="img/oring_74700.png" alt="Ideal diode with LM74700.">
+&lt;/label>
+&lt;figcaption>&lt;p>Ideal diode with LM74700.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h3>5V USB Supply&lt;span class="hx:absolute hx:-mt-20" id="5v-usb-supply">&lt;/span>
+&lt;a href="#5v-usb-supply" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Sensors used in the car are powered by USB and draw a lot of current. This can lead to instability in the whole system. A separate 5V supply can help to mitigate this issue. Batteries uses in the car are 3S LiPo batteries. They provide a nominal voltage of 11.1V, up to 12.6V when fully charged and down to 9.6V when depleted. As standard USB voltage is 5V, a buck converter can be used. Keeping in mind that F1tenth car is an experimental platform, this supply must handle future peripherals that may require more current.&lt;/p>
+&lt;p>A buck converter can achieve high efficiency, often above 90%. Classic implementation &lt;a href="#ref-theartofelectronics" class="citation">[3]&lt;/a>
+are similare to the one in \cref{fig:basic_buck_converter}.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-b4cf2d58e832d519110d0b370bd055fb" class="zoom-checkbox">
+&lt;label for="zoom-b4cf2d58e832d519110d0b370bd055fb" class="zoom-thumb">
+&lt;img src="img/basic_buck_converter.png" alt="Classic buck converter.">
+&lt;/label>
+&lt;label for="zoom-b4cf2d58e832d519110d0b370bd055fb" class="zoom-overlay">
+&lt;img src="img/basic_buck_converter.png" alt="Classic buck converter.">
+&lt;/label>
+&lt;figcaption>&lt;p>Classic buck converter.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;p>It is often more convenient to use a dedicated IC for the buck converter. The TPS51386 &lt;a href="#ref-TPS51386" class="citation">[4]&lt;/a>
+from Texas Instruments handle up to 8A and can be used in a 4.5V to 24V input range and output
+from 0.5V to 5.5V. It embeds also some protection features like over current protection (OCP),
+over voltage protection (OVP) for example. It is a synchronous buck converter, which means it
+use a MOSFET for both high and low side. This increase efficiency and reduce power loss. By embedding
+the power MOSFETs, it also reduce the number of external components and simplify PCB design.&lt;/p>
+&lt;h4>Schematic&lt;span class="hx:absolute hx:-mt-20" id="schematic">&lt;/span>
+&lt;a href="#schematic" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Texas Instruments provide a reference design for the TPS51386 &lt;a href="#ref-TPS51386" class="citation">[4]&lt;/a>
+in the datasheet.
+This reference design is available in \cref{fig:TPS51386_typ_app}. It is designed for 6 to 24V input,
+5.1V output and 8A output current. The design can be easily adapted to the F1tenth power board.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-c9f864c82df53e7aac75052cac056899" class="zoom-checkbox">
+&lt;label for="zoom-c9f864c82df53e7aac75052cac056899" class="zoom-thumb">
+&lt;img src="img/typical_application_TPS51386.png" alt="TPS51386 typical application schematic. 6–24V input, 5.1V output, 8A output current.">
+&lt;/label>
+&lt;label for="zoom-c9f864c82df53e7aac75052cac056899" class="zoom-overlay">
+&lt;img src="img/typical_application_TPS51386.png" alt="TPS51386 typical application schematic. 6–24V input, 5.1V output, 8A output current.">
+&lt;/label>
+&lt;figcaption>&lt;p>TPS51386 typical application schematic. 6–24V input, 5.1V output, 8A output current.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;p>Manufacturer also provide recommended values for 5V output.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML">&lt;semantics>&lt;mrow>&lt;msub>&lt;mi>R&lt;/mi>&lt;mrow>&lt;mi>F&lt;/mi>&lt;mi>B&lt;/mi>&lt;mi>h&lt;/mi>&lt;mi>i&lt;/mi>&lt;mi>g&lt;/mi>&lt;mi>h&lt;/mi>&lt;mi>e&lt;/mi>&lt;mi>r&lt;/mi>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;annotation encoding="application/x-tex">R_{FBhigher}&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:0.9694em;vertical-align:-0.2861em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.00773em;">R&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.05017em;">FB&lt;/span>&lt;span class="mord mathnormal mtight">hi&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.03588em;">g&lt;/span>&lt;span class="mord mathnormal mtight">h&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.02778em;">er&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.2861em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/th>
+&lt;th>&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML">&lt;semantics>&lt;mrow>&lt;msub>&lt;mi>R&lt;/mi>&lt;mrow>&lt;mi>F&lt;/mi>&lt;mi>B&lt;/mi>&lt;mi>l&lt;/mi>&lt;mi>o&lt;/mi>&lt;mi>w&lt;/mi>&lt;mi>e&lt;/mi>&lt;mi>r&lt;/mi>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;annotation encoding="application/x-tex">R_{FBlower}&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:0.8333em;vertical-align:-0.15em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.00773em;">R&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3361em;">&lt;span style="top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.01968em;">FBl&lt;/span>&lt;span class="mord mathnormal mtight">o&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.02691em;">w&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.02778em;">er&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/th>
+&lt;th>&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML">&lt;semantics>&lt;mrow>&lt;msub>&lt;mi>L&lt;/mi>&lt;mrow>&lt;mi>O&lt;/mi>&lt;mi>U&lt;/mi>&lt;mi>T&lt;/mi>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;annotation encoding="application/x-tex">L_{OUT}&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:0.8333em;vertical-align:-0.15em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal">L&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3283em;">&lt;span style="top:-2.55em;margin-left:0em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.02778em;">O&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.10903em;">U&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.13889em;">T&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/th>
+&lt;th>&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML">&lt;semantics>&lt;mrow>&lt;msub>&lt;mi>C&lt;/mi>&lt;mrow>&lt;mi>O&lt;/mi>&lt;mi>U&lt;/mi>&lt;mi>T&lt;/mi>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;annotation encoding="application/x-tex">C_{OUT}&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:0.8333em;vertical-align:-0.15em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.07153em;">C&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3283em;">&lt;span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.02778em;">O&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.10903em;">U&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.13889em;">T&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/th>
+&lt;th>&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML">&lt;semantics>&lt;mrow>&lt;msub>&lt;mi>C&lt;/mi>&lt;mrow>&lt;mi>I&lt;/mi>&lt;mi>N&lt;/mi>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;annotation encoding="application/x-tex">C_{IN}&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:0.8333em;vertical-align:-0.15em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.07153em;">C&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3283em;">&lt;span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.07847em;">I&lt;/span>&lt;span class="mord mathnormal mtight" style="margin-right:0.10903em;">N&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/th>
+&lt;th>&lt;span class="katex">&lt;span class="katex-mathml">&lt;math xmlns="http://www.w3.org/1998/Math/MathML">&lt;semantics>&lt;mrow>&lt;msub>&lt;mi>C&lt;/mi>&lt;mrow>&lt;mi>F&lt;/mi>&lt;mi>F&lt;/mi>&lt;/mrow>&lt;/msub>&lt;/mrow>&lt;annotation encoding="application/x-tex">C_{FF}&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>&lt;span class="katex-html" aria-hidden="true">&lt;span class="base">&lt;span class="strut" style="height:0.8333em;vertical-align:-0.15em;">&lt;/span>&lt;span class="mord">&lt;span class="mord mathnormal" style="margin-right:0.07153em;">C&lt;/span>&lt;span class="msupsub">&lt;span class="vlist-t vlist-t2">&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.3283em;">&lt;span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;">&lt;span class="pstrut" style="height:2.7em;">&lt;/span>&lt;span class="sizing reset-size6 size3 mtight">&lt;span class="mord mtight">&lt;span class="mord mathnormal mtight" style="margin-right:0.13889em;">FF&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class="vlist-s">​&lt;/span>&lt;/span>&lt;span class="vlist-r">&lt;span class="vlist" style="height:0.15em;">&lt;span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>147kΩ&lt;/td>
+&lt;td>20kΩ&lt;/td>
+&lt;td>1.5µH or 2.2µH&lt;/td>
+&lt;td>44µF to 500µF&lt;/td>
+&lt;td>22µF to 100µF&lt;/td>
+&lt;td>0pF to 100pF&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>With little adjustments this give the following schematic: \cref{fig:5V_USB_supply}.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-25b546c4ea1f5210484d8da2b30f1cdd" class="zoom-checkbox">
+&lt;label for="zoom-25b546c4ea1f5210484d8da2b30f1cdd" class="zoom-thumb">
+&lt;img src="img/buck_converter.png" alt="TPS51386 schematic. 6–24V input, 5.1V output, 8A output current.">
+&lt;/label>
+&lt;label for="zoom-25b546c4ea1f5210484d8da2b30f1cdd" class="zoom-overlay">
+&lt;img src="img/buck_converter.png" alt="TPS51386 schematic. 6–24V input, 5.1V output, 8A output current.">
+&lt;/label>
+&lt;figcaption>&lt;p>TPS51386 schematic. 6–24V input, 5.1V output, 8A output current.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h4>Simulation&lt;span class="hx:absolute hx:-mt-20" id="simulation">&lt;/span>
+&lt;a href="#simulation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>To ensure the design is correct, a simulation can be done. Texas Instruments provide an online tool Webench &lt;a href="#ref-Webench" class="citation">[5]&lt;/a>
+to simulate the TPS51386. Results give an efficiency of 97% for a 11.1V input, 5V output and a 2A load. This is the typical scenario for the F1tenth car. The total power loss for whole components is 277mW. For IC only it is 250mW, that will give a temperature rise of 7.5K.&lt;/p>
+&lt;p>Even with a 6A load, the efficiency is still 95% and the total power loss is 1.33W. For IC only is 1.11W and temperature rise is 33.3K. This is still acceptable for the IC. In the worst case inductor current remain below 8A.&lt;/p>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-a1ba2768cd09bc8f17035008b99be5dd" class="zoom-checkbox">
+&lt;label for="zoom-a1ba2768cd09bc8f17035008b99be5dd" class="zoom-thumb">
+&lt;img src="img/11in5out.png" alt="Steady state. Vout=5V, Vin=11.1V, Iout=2A.">
+&lt;/label>
+&lt;label for="zoom-a1ba2768cd09bc8f17035008b99be5dd" class="zoom-overlay">
+&lt;img src="img/11in5out.png" alt="Steady state. Vout=5V, Vin=11.1V, Iout=2A.">
+&lt;/label>
+&lt;figcaption>&lt;p>Steady state. Vout=5V, Vin=11.1V, Iout=2A.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-20071add65fa3f3f03d63a5fb5059b1a" class="zoom-checkbox">
+&lt;label for="zoom-20071add65fa3f3f03d63a5fb5059b1a" class="zoom-thumb">
+&lt;img src="img/6ato1a.png" alt="Transient response 6A to 1A load.">
+&lt;/label>
+&lt;label for="zoom-20071add65fa3f3f03d63a5fb5059b1a" class="zoom-overlay">
+&lt;img src="img/6ato1a.png" alt="Transient response 6A to 1A load.">
+&lt;/label>
+&lt;figcaption>&lt;p>Transient response 6A to 1A load.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-6d60e4616701e2e71b5fc77007ca031d" class="zoom-checkbox">
+&lt;label for="zoom-6d60e4616701e2e71b5fc77007ca031d" class="zoom-thumb">
+&lt;img src="img/amCharts.png" alt="Converter efficiency.">
+&lt;/label>
+&lt;label for="zoom-6d60e4616701e2e71b5fc77007ca031d" class="zoom-overlay">
+&lt;img src="img/amCharts.png" alt="Converter efficiency.">
+&lt;/label>
+&lt;figcaption>&lt;p>Converter efficiency.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-5d1c45adb75aa301c5f5d814b5c69867" class="zoom-checkbox">
+&lt;label for="zoom-5d1c45adb75aa301c5f5d814b5c69867" class="zoom-thumb">
+&lt;img src="img/amCharts_log.png" alt="Converter efficiency log scale.">
+&lt;/label>
+&lt;label for="zoom-5d1c45adb75aa301c5f5d814b5c69867" class="zoom-overlay">
+&lt;img src="img/amCharts_log.png" alt="Converter efficiency log scale.">
+&lt;/label>
+&lt;figcaption>&lt;p>Converter efficiency log scale.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h3>Jetson and 12V supply&lt;span class="hx:absolute hx:-mt-20" id="jetson-and-12v-supply">&lt;/span>
+&lt;a href="#jetson-and-12v-supply" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Jetson Xavier NX and Jetson TX2 are powered by 12V. This voltage is provided
+by the batteries without any regulation. However because Li-Po batteries can allow very
+high current, it is important to add a fuse to protect the Jetson board or peripherals.
+A passive fuse can be used, but it take time to blow and use a lot of space. Plus it is
+not reusable. A PTC fuse can be used instead but they are relatively slow to blow. A better
+solution is to use resettable fuses, also known as &amp;ldquo;e-fuses&amp;rdquo;. The fuse current can be set, as
+well as the time to blow to allow some peak current. The TPS25980 &lt;a href="#ref-TPS25980" class="citation">[6]&lt;/a>
+from Texas Instruments is a good candidate. It support 2.7-V to 24-V, 8-A and has 3-mΩ on conductance.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-c474326d4ddfa47d711c448e54e96b38" class="zoom-checkbox">
+&lt;label for="zoom-c474326d4ddfa47d711c448e54e96b38" class="zoom-thumb">
+&lt;img src="img/5A_efuse.png" alt="TPS25980 schematic, set to 5A current limit.">
+&lt;/label>
+&lt;label for="zoom-c474326d4ddfa47d711c448e54e96b38" class="zoom-overlay">
+&lt;img src="img/5A_efuse.png" alt="TPS25980 schematic, set to 5A current limit.">
+&lt;/label>
+&lt;figcaption>&lt;p>TPS25980 schematic, set to 5A current limit.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h2>Layout&lt;span class="hx:absolute hx:-mt-20" id="layout">&lt;/span>
+&lt;a href="#layout" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The layout was done with KiCad.
+It is important to keep the high current path as short and as wide as possible.
+High current path are the path from the batteries to the VESC.
+The VESC current limit was set to 40A in its software.&lt;/p>
+&lt;p>Special care was taken to follow the datasheet recommendations for the TPS51386. Because it is
+an high frequency switching converter, it is important to keep the high current path as short as possible.
+and to place feedback loop away from the inductor. This is to avoid noise and instability in the feedback loop.&lt;/p>
+&lt;h3>ORing circuitry&lt;span class="hx:absolute hx:-mt-20" id="oring-circuitry">&lt;/span>
+&lt;a href="#oring-circuitry" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The high current path is clearly visible in \cref{fig:oring_layout}. MOSFETs are placed close to the batteries and VESC pad between the output of ideals diodes. The use of a large copper plane help to reduce the voltage drop and the power loss and improve the thermal dissipation.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-4e2d7c8b2070efa80d20540b1e191006" class="zoom-checkbox">
+&lt;label for="zoom-4e2d7c8b2070efa80d20540b1e191006" class="zoom-thumb">
+&lt;img src="img/oring_layout.png" alt="Oring circuitry layout. The two batteries are connected to the left and VESC to the right.">
+&lt;/label>
+&lt;label for="zoom-4e2d7c8b2070efa80d20540b1e191006" class="zoom-overlay">
+&lt;img src="img/oring_layout.png" alt="Oring circuitry layout. The two batteries are connected to the left and VESC to the right.">
+&lt;/label>
+&lt;figcaption>&lt;p>Oring circuitry layout. The two batteries are connected to the left and VESC to the right.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h3>TPS51386 buck converter&lt;span class="hx:absolute hx:-mt-20" id="tps51386-buck-converter">&lt;/span>
+&lt;a href="#tps51386-buck-converter" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The layout of the TPS51386 is shown in \cref{sub@fig:layout_TPS51386}.
+It follow the Texas Instruments guidelines \cref{sub@fig:recommanded_layout} for the layout. The inductor is relatively big compared
+to the IC. This is to reduce ohmic losses and ensure the inductor have high saturation current.\
+The TPS51386 is in VQFN-HR package, that measure 2mm x 3mm.&lt;/p>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-bfbe8b7b4464fae855b2a4c344725f59" class="zoom-checkbox">
+&lt;label for="zoom-bfbe8b7b4464fae855b2a4c344725f59" class="zoom-thumb">
+&lt;img src="img/stepdown_layout.png" alt="Buck converter layout.">
+&lt;/label>
+&lt;label for="zoom-bfbe8b7b4464fae855b2a4c344725f59" class="zoom-overlay">
+&lt;img src="img/stepdown_layout.png" alt="Buck converter layout.">
+&lt;/label>
+&lt;figcaption>&lt;p>Buck converter layout.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-8f1cab58cfad8b080493dce64a620d55" class="zoom-checkbox">
+&lt;label for="zoom-8f1cab58cfad8b080493dce64a620d55" class="zoom-thumb">
+&lt;img src="img/layout_TPS51386.png" alt="Texas Instruments recommended layout.">
+&lt;/label>
+&lt;label for="zoom-8f1cab58cfad8b080493dce64a620d55" class="zoom-overlay">
+&lt;img src="img/layout_TPS51386.png" alt="Texas Instruments recommended layout.">
+&lt;/label>
+&lt;figcaption>&lt;p>Texas Instruments recommended layout.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h3>E-fuse&lt;span class="hx:absolute hx:-mt-20" id="e-fuse">&lt;/span>
+&lt;a href="#e-fuse" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The layout for the TPS25980 are shown in \cref{fig:layout_efuses}. It follow the Texas Instruments guidelines. The two 12V connectors for peripherals share the same fuse.&lt;/p>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-263b41788600d097027fac8678bef8f8" class="zoom-checkbox">
+&lt;label for="zoom-263b41788600d097027fac8678bef8f8" class="zoom-thumb">
+&lt;img src="img/efuse_jetson_layout.png" alt="Jetson e-fuse layout.">
+&lt;/label>
+&lt;label for="zoom-263b41788600d097027fac8678bef8f8" class="zoom-overlay">
+&lt;img src="img/efuse_jetson_layout.png" alt="Jetson e-fuse layout.">
+&lt;/label>
+&lt;figcaption>&lt;p>Jetson e-fuse layout.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-ed2ff481fbedab526a95c80669dc4d20" class="zoom-checkbox">
+&lt;label for="zoom-ed2ff481fbedab526a95c80669dc4d20" class="zoom-thumb">
+&lt;img src="img/efuse_layout.png" alt="12V peripherals e-fuse layout.">
+&lt;/label>
+&lt;label for="zoom-ed2ff481fbedab526a95c80669dc4d20" class="zoom-overlay">
+&lt;img src="img/efuse_layout.png" alt="12V peripherals e-fuse layout.">
+&lt;/label>
+&lt;figcaption>&lt;p>12V peripherals e-fuse layout.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h3>Design Rules Check&lt;span class="hx:absolute hx:-mt-20" id="design-rules-check">&lt;/span>
+&lt;a href="#design-rules-check" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>All PCB were checked with the Design Rules Check (DRC) according to JLCPCB capabilities.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-385c2a931e3e8da7d4a6cccc0d894fd7" class="zoom-checkbox">
+&lt;label for="zoom-385c2a931e3e8da7d4a6cccc0d894fd7" class="zoom-thumb">
+&lt;img src="img/DRC.png" alt="Design Rules Check.">
+&lt;/label>
+&lt;label for="zoom-385c2a931e3e8da7d4a6cccc0d894fd7" class="zoom-overlay">
+&lt;img src="img/DRC.png" alt="Design Rules Check.">
+&lt;/label>
+&lt;figcaption>&lt;p>Design Rules Check.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h2>Schematics&lt;span class="hx:absolute hx:-mt-20" id="schematics">&lt;/span>
+&lt;a href="#schematics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hextra-pdf">
+&lt;iframe src="power-board-f1tenth.pdf" width="100%" style="min-height: 32rem;" frameborder="0">&lt;/iframe>
+&lt;/div>
+&lt;h2>Bill of Materials&lt;span class="hx:absolute hx:-mt-20" id="bill-of-materials">&lt;/span>
+&lt;a href="#bill-of-materials" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Designator&lt;/th>
+&lt;th>Footprint&lt;/th>
+&lt;th>Quantity&lt;/th>
+&lt;th>Value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>C1, C14, C15, C18, C2, C5, C6, C7, C8&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>9&lt;/td>
+&lt;td>22u&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>C10&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>22p&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>C11&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>NC&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>C12, C13, C16, C21, C3, C4&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>6&lt;/td>
+&lt;td>100n&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>C17, C19, C20, C22, C23, C24&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>6&lt;/td>
+&lt;td>10n&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>C9&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>1u&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>D2, D3, D4, D5&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>LED&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>D6&lt;/td>
+&lt;td>SOT-23-3&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>3v9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J1&lt;/td>
+&lt;td>USB_A_Molex_67643_Horizontal&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>USB_A&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J2&lt;/td>
+&lt;td>Battery_pad&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>Batt_A&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J3&lt;/td>
+&lt;td>PinHeader_1x02_P2.54mm_Vertical&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>BATT_A&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J4&lt;/td>
+&lt;td>Battery_pad&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>VESC&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J5&lt;/td>
+&lt;td>Battery_pad&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>Batt_B&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J6&lt;/td>
+&lt;td>PinHeader_1x02_P2.54mm_Vertical&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>BATT_B&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J7&lt;/td>
+&lt;td>TerminalBlock_terminal block-2_P5.08mm&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>P0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J8&lt;/td>
+&lt;td>TerminalBlock_terminal block-2_P5.08mm&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>P1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J9&lt;/td>
+&lt;td>TerminalBlock_terminal block-2_P5.08mm&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>JETSON&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L1&lt;/td>
+&lt;td>SRP12701R5M&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>1u5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Q1, Q2&lt;/td>
+&lt;td>IAUCN04S7L005&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>IAUCN04S7L005&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>R1, R13, R2, R4, R8&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>150k&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>R10, R11, R5&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1k&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>R12, R7&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>620k&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>R14, R6, R9&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>300&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>R3&lt;/td>
+&lt;td>0805&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>20k&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>TP1&lt;/td>
+&lt;td>TestPoint_Pad_D1.0mm&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>Batt_sys&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>TP2&lt;/td>
+&lt;td>TestPoint_Pad_D1.0mm&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>Vbus&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>TP3&lt;/td>
+&lt;td>TestPoint_Pad_D1.0mm&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>Periph_sys&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>TP4&lt;/td>
+&lt;td>TestPoint_Pad_D1.0mm&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>Jetson_sys&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>U1&lt;/td>
+&lt;td>RJN_Package_12-Pin_VQFN-HR&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>TPS51386&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>U2, U3&lt;/td>
+&lt;td>SOT65P280X110-8N&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>LM74700QDDF&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>U4, U5&lt;/td>
+&lt;td>TPS259803ONRGER&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>TPS259803ONRGER&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;a href="https://github.com/AntoninPvr/F1Tenth_powerboard/blob/main/production/bom.csv" title="Download BOM" target="_blank">&lt;div class="hextra-badge ">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>&lt;/svg>Download BOM&lt;/div>
+&lt;/div>&lt;/a>
+&lt;h2>Assembly&lt;span class="hx:absolute hx:-mt-20" id="assembly">&lt;/span>
+&lt;a href="#assembly" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Ordering&lt;span class="hx:absolute hx:-mt-20" id="ordering">&lt;/span>
+&lt;a href="#ordering" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The PCB were ordered from JLCPCB. They provide a very good service and the price is very competitive.
+The cost for 5 PCB was CZK 46. (1.8€ on 2024).\&lt;/p>
+&lt;p>The components were ordered from Mouser. The total cost was CZK 769 (30€ on 2024) for one board.
+The superviser decided to order enough components to build 2 boards because they plan to
+build a second car. The price for two boards was CZK 1100 (43€ on 2024).\&lt;/p>
+&lt;p>Compare to the original F1tenth power board, the cost is half the price.&lt;/p>
+&lt;h3>Results&lt;span class="hx:absolute hx:-mt-20" id="results">&lt;/span>
+&lt;a href="#results" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Connectors for the Jetson and 12V peripherals are pluggables terminals. This allow to easily replace sensors or SBC. The USB port is a high current USB port with enforced contact plating.&lt;/p>
+&lt;p>The batteries pad are soldered to XT90 connectors. This is a standard connector for LiPo batteries. The use of deported connectors reduce stress on the board and it is pretty common on drones or RC cars.&lt;/p>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-52b7576d00a4c2f60060b82d462de75c" class="zoom-checkbox">
+&lt;label for="zoom-52b7576d00a4c2f60060b82d462de75c" class="zoom-thumb">
+&lt;img src="img/pcb_front.JPG" alt="Front of the power board.">
+&lt;/label>
+&lt;label for="zoom-52b7576d00a4c2f60060b82d462de75c" class="zoom-overlay">
+&lt;img src="img/pcb_front.JPG" alt="Front of the power board.">
+&lt;/label>
+&lt;figcaption>&lt;p>Front of the power board.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-feafe1bc7f479e728fda549f762ebfd2" class="zoom-checkbox">
+&lt;label for="zoom-feafe1bc7f479e728fda549f762ebfd2" class="zoom-thumb">
+&lt;img src="img/pcb_back.JPG" alt="Back of the power board with printed BOM.">
+&lt;/label>
+&lt;label for="zoom-feafe1bc7f479e728fda549f762ebfd2" class="zoom-overlay">
+&lt;img src="img/pcb_back.JPG" alt="Back of the power board with printed BOM.">
+&lt;/label>
+&lt;figcaption>&lt;p>Back of the power board with printed BOM.&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h3>Testing&lt;span class="hx:absolute hx:-mt-20" id="testing">&lt;/span>
+&lt;a href="#testing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The power board was tested with a bench power supply. The voltage was set from 9 to 14V to test the normal operation of the board. And after the voltage was set from 0 to 20V to test the behavior when the voltage is out of the normal range. The board was also tested with a 40A load. Some debug LED were added at the bottom left to help diagnose the board \cref{sub@fig:pcb_front}.&lt;/p>
+&lt;h2>References&lt;span class="hx:absolute hx:-mt-20" id="references">&lt;/span>
+&lt;a href="#references" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>
+&lt;div id="ref-LM74700">&lt;/div>
+&lt;p>&lt;strong>[LM74700]&lt;/strong>&lt;br>
+Texas Instruments. &lt;em>LM74700-Q1 Low IQ Reverse Battery Protection Ideal Diode Controller datasheet (Rev. G)&lt;/em>.&lt;br>
+Link: &lt;a href="https://www.ti.com/lit/gpn/lm74700-q1"target="_blank" rel="noopener">https://www.ti.com/lit/gpn/lm74700-q1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;div id="ref-IAUCN04S7L005">&lt;/div>
+&lt;p>&lt;strong>[IAUCN04S7L005]&lt;/strong>&lt;br>
+Infineon Technologies AG. &lt;em>IAUCN04S7L005-Data-Sheet-10-Infineon Rev. 1.0&lt;/em>.&lt;br>
+Link: &lt;a href="https://www.infineon.com/dgdl/Infineon-IAUCN04S7L005-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c8d2fe47b018d35ed07d31a6c"target="_blank" rel="noopener">https://www.infineon.com/dgdl/Infineon-IAUCN04S7L005-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c8d2fe47b018d35ed07d31a6c&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;div id="ref-theartofelectronics">&lt;/div>
+&lt;p>&lt;strong>[theartofelectronics]&lt;/strong>&lt;br>
+P. Horowitz and W. Hill. &lt;em>The Art of Electronics&lt;/em>, 3rd ed., ch. 9.6.&lt;br>
+Cambridge University Press, 2015.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;div id="ref-TPS51386">&lt;/div>
+&lt;p>&lt;strong>[TPS51386]&lt;/strong>&lt;br>
+Texas Instruments. &lt;em>TPS51386 4.5-V to 24-V Input, 8-A Synchronous Buck Converter&lt;/em>.&lt;br>
+Link: &lt;a href="https://www.ti.com/lit/ds/slusf01/slusf01.pdf"target="_blank" rel="noopener">https://www.ti.com/lit/ds/slusf01/slusf01.pdf&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;div id="ref-Webench">&lt;/div>
+&lt;p>&lt;strong>[Webench]&lt;/strong>&lt;br>
+Texas Instruments. &lt;em>WEBENCH Power Designer&lt;/em>.&lt;br>
+Link: &lt;a href="https://www.ti.com/tool/WEBENCH-CIRCUIT-DESIGNER"target="_blank" rel="noopener">https://www.ti.com/tool/WEBENCH-CIRCUIT-DESIGNER&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;div id="ref-TPS25980">&lt;/div>
+&lt;p>&lt;strong>[TPS25980]&lt;/strong>&lt;br>
+Texas Instruments. &lt;em>TPS25980: 2.7–24 V, 8 A Smart eFuse&lt;/em>.&lt;br>
+Link: &lt;a href="https://www.ti.com/lit/ds/symlink/tps25980.pdf"target="_blank" rel="noopener">https://www.ti.com/lit/ds/symlink/tps25980.pdf&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;div id="ref-APT100S20LCT">&lt;/div>
+&lt;p>&lt;strong>[APT100S20LCT]&lt;/strong>&lt;br>
+Microsemi. &lt;em>Schottky diode APT100S20LCT Datasheet&lt;/em>.&lt;br>
+Link: &lt;a href="https://ww1.microchip.com/downloads/en/DeviceDoc/APT100S20LCT%28G%29_D.pdf"target="_blank" rel="noopener">https://ww1.microchip.com/downloads/en/DeviceDoc/APT100S20LCT(G)_D.pdf&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Hantek 6022 AC mod</title><link>https://antoninpvr.github.io/hardware/hantek_6022_mod/</link><pubDate>Thu, 18 Jul 2024 08:31:17 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/hantek_6022_mod/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/hantek_6022_mod/featured_hu_e6f0be3b17a55484.png" width="640" height="571"/>&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/AntoninPvr/hantek-6022-pcb"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+hantek-6022-pcb&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Simple PCB for the Hantek 6022 AC mod&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>1.0.0&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;p>Simple pcb to add AC coupling to the Hantek 6022BE oscilloscope. Based on the widespread mod available here: &lt;a href="https://github.com/OpenHantek/OpenHantek6022/blob/main/docs/HANTEK6022_AC_Modification.pdf"target="_blank" rel="noopener">https://github.com/OpenHantek/OpenHantek6022/blob/main/docs/HANTEK6022_AC_Modification.pdf&lt;/a>&lt;/p>
+&lt;p>Compatible with the OpenHantek6022 firmware:&lt;/p>
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose"
+style="--hextra-cards-grid-cols: 3;">&lt;a
+class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://github.com/OpenHantek/OpenHantek6022"
+target="_blank" rel="noreferrer">
+&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">&lt;svg fill="currentColor" viewBox="3 3 18 18">
+&lt;path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z">&lt;/path>
+&lt;/svg>
+OpenHantek6022&lt;/span>
+&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">OpenHantek6022 is a DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL. Development OS is Debian Linux, but the program also works on FreeBSD, MacOS, RaspberryPi and Windows. No support for non-Linux related issues unless a volunteer steps in!&lt;/div>&lt;div class="hextra-badge hextra-card-tag">
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700">&lt;svg height=12 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>&lt;/svg>devdrop&lt;/div>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;h2>Circuit&lt;span class="hx:absolute hx:-mt-20" id="circuit">&lt;/span>
+&lt;a href="#circuit" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When &lt;code>AC_A&lt;/code> is high &lt;code>C1&lt;/code> is short so the signal is DC coupled. When &lt;code>AC_A&lt;/code> is low &lt;code>C1&lt;/code> is open so the signal is AC coupled.&lt;/p>
+&lt;div class="hextra-pdf">
+&lt;iframe src="schematic.pdf" width="100%" style="min-height: 32rem;" frameborder="0">&lt;/iframe>
+&lt;/div>
+&lt;h2>PCB&lt;span class="hx:absolute hx:-mt-20" id="pcb">&lt;/span>
+&lt;a href="#pcb" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Back layer can be avoided especially in case of pcb milling.&lt;/p>
+&lt;div class="gallery">
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-a84c8562399d383589c7ff1c4efbec60" class="zoom-checkbox">
+&lt;label for="zoom-a84c8562399d383589c7ff1c4efbec60" class="zoom-thumb">
+&lt;img src="img/front.png" alt="Front side of the PCB">
+&lt;/label>
+&lt;label for="zoom-a84c8562399d383589c7ff1c4efbec60" class="zoom-overlay">
+&lt;img src="img/front.png" alt="Front side of the PCB">
+&lt;/label>
+&lt;figcaption>&lt;p>Front side of the PCB&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-deb04c4b38ca0d832d802e54c2df9823" class="zoom-checkbox">
+&lt;label for="zoom-deb04c4b38ca0d832d802e54c2df9823" class="zoom-thumb">
+&lt;img src="img/back.png" alt="Back side of the PCB">
+&lt;/label>
+&lt;label for="zoom-deb04c4b38ca0d832d802e54c2df9823" class="zoom-overlay">
+&lt;img src="img/back.png" alt="Back side of the PCB">
+&lt;/label>
+&lt;figcaption>&lt;p>Back side of the PCB&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h2>BOM&lt;span class="hx:absolute hx:-mt-20" id="bom">&lt;/span>
+&lt;a href="#bom" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Reference&lt;/th>
+&lt;th>Value&lt;/th>
+&lt;th>Datasheet&lt;/th>
+&lt;th>Footprint&lt;/th>
+&lt;th>Qty&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>C1,C2&lt;/td>
+&lt;td>100n&lt;/td>
+&lt;td>~&lt;/td>
+&lt;td>Capacitor_SMD:C_0805_2012Metric&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>R1,R2,R3,R4&lt;/td>
+&lt;td>220&lt;/td>
+&lt;td>~&lt;/td>
+&lt;td>Resistor_SMD:R_0805_2012Metric&lt;/td>
+&lt;td>4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>U1,U2&lt;/td>
+&lt;td>TLP175A&lt;/td>
+&lt;td>&lt;a href="https://toshiba.semicon-storage.com/info/docget.jsp?did=13665&amp;amp;prodName=TLP175A"target="_blank" rel="noopener">Datasheet&lt;/a>&lt;/td>
+&lt;td>Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2>Mounting&lt;span class="hx:absolute hx:-mt-20" id="mounting">&lt;/span>
+&lt;a href="#mounting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The pcb can be mounted on an unpopulated shield hole. The pin located at the center of the PCB is used to fix the PCB in place.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-a765d9b989ea84c8e6ec4a23d4a02f4f" class="zoom-checkbox">
+&lt;label for="zoom-a765d9b989ea84c8e6ec4a23d4a02f4f" class="zoom-thumb">
+&lt;img src="img/mounting_hole.jpg" alt="Mounting hole">
+&lt;/label>
+&lt;label for="zoom-a765d9b989ea84c8e6ec4a23d4a02f4f" class="zoom-overlay">
+&lt;img src="img/mounting_hole.jpg" alt="Mounting hole">
+&lt;/label>
+&lt;figcaption>&lt;p>Mounting hole&lt;/p>&lt;/figcaption>
+&lt;/figure></description></item><item><title>Time Gated Optical Detector PCB</title><link>https://antoninpvr.github.io/hardware/time_gated_optical_detector/</link><pubDate>Thu, 27 Jul 2023 18:45:48 +0200</pubDate><guid>https://antoninpvr.github.io/hardware/time_gated_optical_detector/</guid><description>
+&lt;img src="https://antoninpvr.github.io/hardware/time_gated_optical_detector/featured_hu_3f59d6be6edd2e59.jpg" width="640" height="480"/>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>&lt;/svg>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">This project was developed during my internship at &lt;a href="https://icube.unistra.fr/en/"target="_blank" rel="noopener">ICUBE Laboratory&lt;/a> therefore some parts of the project are not disclosed here due to intellectual property reasons. The aims of this post is to share my experience.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This PCB is designed as a shield for the Cyclone V FPGA DE10nano development board. It is part of a time-gated optical detector system used to measure water pollution through fluorescence detection. The system requires precise timing for pulse generation and detection, which is achieved using the FPGA.&lt;/p>
+&lt;p>My role in this project was to validate the schematic of the receiver PCB and design test board for each stage of the receiver.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-14c14bc3542555241398984169993947" class="zoom-checkbox">
+&lt;label for="zoom-14c14bc3542555241398984169993947" class="zoom-thumb">
+&lt;img src="featured.jpg" alt="Lab setup for testing the receiver PCB">
+&lt;/label>
+&lt;label for="zoom-14c14bc3542555241398984169993947" class="zoom-overlay">
+&lt;img src="featured.jpg" alt="Lab setup for testing the receiver PCB">
+&lt;/label>
+&lt;figcaption>&lt;p>One of the lab setup used to test the receiver PCB&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h2>Receiver PCB Design&lt;span class="hx:absolute hx:-mt-20" id="receiver-pcb-design">&lt;/span>
+&lt;a href="#receiver-pcb-design" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The receiver PCB is responsible for amplifying the weak fluorescence signals detected by the photodetector. This involves a TIA integrator stage to convert the photocurrent into a voltage signal, followed by sample-and-hold circuits to capture the signal and letting the FPGA process it.&lt;/p>
+&lt;h3>Photodiode Integrator&lt;span class="hx:absolute hx:-mt-20" id="photodiode-integrator">&lt;/span>
+&lt;a href="#photodiode-integrator" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The first stage of the receiver is a transimpedance amplifier (TIA) integrator. This stage converts the photocurrent generated by the photodiode into a voltage signal. This integrator is reset between each measurement with the TMUX1101 analog switch. This switch has very low switching time (less than 20ns) and low leaking current, which is crucial for the time-gated detection.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-29615de73d024f149d3154af328b06a0" class="zoom-checkbox">
+&lt;label for="zoom-29615de73d024f149d3154af328b06a0" class="zoom-thumb">
+&lt;img src="img/TIA.png" alt="TIA stage on the receiver PCB">
+&lt;/label>
+&lt;label for="zoom-29615de73d024f149d3154af328b06a0" class="zoom-overlay">
+&lt;img src="img/TIA.png" alt="TIA stage on the receiver PCB">
+&lt;/label>
+&lt;figcaption>&lt;p>Transimpedance Amplifier (TIA) stage on the receiver PCB (Not the final version)&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h3>Sample-and-Hold Circuits&lt;span class="hx:absolute hx:-mt-20" id="sample-and-hold-circuits">&lt;/span>
+&lt;a href="#sample-and-hold-circuits" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The sample-and-hold circuits are used to capture the voltage signal from the integrator to allow the FPGA to convert it using its onboard ADC. This stage uses OPA615, which is often used in video applications.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-ac00db50a275dd1ab288c8c98509b224" class="zoom-checkbox">
+&lt;label for="zoom-ac00db50a275dd1ab288c8c98509b224" class="zoom-thumb">
+&lt;img src="img/opa615.png" alt="Sample-and-Hold stage on the receiver PCB">
+&lt;/label>
+&lt;label for="zoom-ac00db50a275dd1ab288c8c98509b224" class="zoom-overlay">
+&lt;img src="img/opa615.png" alt="Sample-and-Hold stage on the receiver PCB">
+&lt;/label>
+&lt;figcaption>&lt;p>Sample-and-Hold stage on the receiver PCB (Not the final version)&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h2>Test Boards&lt;span class="hx:absolute hx:-mt-20" id="test-boards">&lt;/span>
+&lt;a href="#test-boards" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>To validate the design of each stage of the receiver PCB, I designed separate test boards for the TIA integrator and the sample-and-hold circuits. These test boards allowed me to characterize the performance of each stages individually before integrating them into the final receiver PCB.&lt;/p>
+&lt;h3>Sample-and-Hold Test Board&lt;span class="hx:absolute hx:-mt-20" id="sample-and-hold-test-board">&lt;/span>
+&lt;a href="#sample-and-hold-test-board" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>To test the sample-and-hold stage, I designed a dedicated PCB that includes the OPA615 and the necessary components. This board allowed me to evaluate the behavior of the sample-and-hold circuit, including its acquisition time and droop rate. Note that the PCB shown below is intended to be built using isolation milling, which means I cannot use vias.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-b27be90c25cbb76d7472a1cfbd6368a6" class="zoom-checkbox">
+&lt;label for="zoom-b27be90c25cbb76d7472a1cfbd6368a6" class="zoom-thumb">
+&lt;img src="img/sa_layout.png" alt="Sample-and-Hold test board layout">
+&lt;/label>
+&lt;label for="zoom-b27be90c25cbb76d7472a1cfbd6368a6" class="zoom-overlay">
+&lt;img src="img/sa_layout.png" alt="Sample-and-Hold test board layout">
+&lt;/label>
+&lt;figcaption>&lt;p>Sample-and-Hold test board layout&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h3>Isolation Milling&lt;span class="hx:absolute hx:-mt-20" id="isolation-milling">&lt;/span>
+&lt;a href="#isolation-milling" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Isolation milling is a PCB manufacturing technique in which the copper around the traces is removed, leaving only the traces and pads. This method is particularly useful for prototyping and small production runs, as it enables quick and cost-effective PCB fabrication without the need for chemical etching. With this process, I can design a PCB in the morning, mill it right afterward, take a lunch break, and have it ready for testing in the afternoon.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-fa4880a82cfc0e925c5e8433abffde70" class="zoom-checkbox">
+&lt;label for="zoom-fa4880a82cfc0e925c5e8433abffde70" class="zoom-thumb">
+&lt;img src="img/opa858_milled.jpg" alt="Opa858 test board after isolation milling">
+&lt;/label>
+&lt;label for="zoom-fa4880a82cfc0e925c5e8433abffde70" class="zoom-overlay">
+&lt;img src="img/opa858_milled.jpg" alt="Opa858 test board after isolation milling">
+&lt;/label>
+&lt;figcaption>&lt;p>Opa858 test board after isolation milling&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h2>FPGA Integration&lt;span class="hx:absolute hx:-mt-20" id="fpga-integration">&lt;/span>
+&lt;a href="#fpga-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The DE10nano development board from Terasic, embedding a Cyclone V FPGA SoC which contains an Hard Processor System (HPS) based on an ARM Cortex-A9. Typically, Nios II would have been the expected choice for computing tasks, but the HPS was preferred in this case due to its superior performance and ease of programming, being able to run a full Linux OS. Terasic provides a debian-based Linux distribution for the HPS. The difficulty lies in the communication between the FPGA and the HPS, which requires setting up the FPGA design using Intel&amp;rsquo;s Quartus software and configuring the Linux kernel to support the custom hardware. I had to learn how U-Boot and device trees work and how to modify them to include the new peripherals through Avalon bus. Luckily, we can use GHRD (Golden Hardware Reference Design) to start from a working design.&lt;/p>
+&lt;figure class="zoom-figure ">
+&lt;input type="checkbox" id="zoom-a084b0b28d9e75186ac06c3943fc66b8" class="zoom-checkbox">
+&lt;label for="zoom-a084b0b28d9e75186ac06c3943fc66b8" class="zoom-thumb">
+&lt;img src="img/Qsys.png" alt="Screenshot of the Qsys design for the DE10nano">
+&lt;/label>
+&lt;label for="zoom-a084b0b28d9e75186ac06c3943fc66b8" class="zoom-overlay">
+&lt;img src="img/Qsys.png" alt="Screenshot of the Qsys design for the DE10nano">
+&lt;/label>
+&lt;figcaption>&lt;p>Screenshot of Qsys showing Memory Mapped I/O&lt;/p>&lt;/figcaption>
+&lt;/figure>
+&lt;h2>Conclusion&lt;span class="hx:absolute hx:-mt-20" id="conclusion">&lt;/span>
+&lt;a href="#conclusion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Designing the time-gated optical detector PCB was a challenging yet rewarding experience. It allowed me to deepen my understanding of high-speed analog circuit design, PCB layout techniques, and FPGA integration. The use of isolation milling for prototyping was particularly beneficial, enabling rapid iteration and testing of the designs. Overall, this project has significantly enhanced my skills in both hardware design and embedded systems.&lt;/p>
+&lt;p>I would like to thank the ICUBE Laboratory for providing me with the opportunity to work on this project and for their support throughout the development process.&lt;/p>
+&lt;p>I was very happy learn that Intel Quartus Prime take up to hundreds of gigabytes of disk space when installing all the features&amp;hellip;&lt;/p></description></item></channel></rss>

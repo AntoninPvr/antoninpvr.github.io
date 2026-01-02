@@ -1,0 +1,59 @@
+{
+  "LM74700": {
+    "type": "online",
+    "author": ["Texas Instruments"],
+    "title": "LM74700-Q1 Low IQ Reverse Battery Protection Ideal Diode Controller datasheet (Rev. G)",
+    "url": "https://www.ti.com/lit/gpn/lm74700-q1",
+    "keywords": ["LM74700", "ideal diode", "TI"]
+  },
+
+  "IAUCN04S7L005": {
+    "type": "online",
+    "author": ["Infineon Technologies AG"],
+    "title": "IAUCN04S7L005-Data-Sheet-10-Infineon Rev. 1.0",
+    "url": "https://www.infineon.com/dgdl/Infineon-IAUCN04S7L005-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c8d2fe47b018d35ed07d31a6c",
+    "keywords": ["MOSFET", "IAUCN04S7L005", "Infineon"]
+  },
+
+  "APT100S20LCT": {
+    "type": "online",
+    "author": ["Microsemi"],
+    "title": "Schottky diode APT100S20LCT Datasheet",
+    "url": "https://ww1.microchip.com/downloads/en/DeviceDoc/APT100S20LCT(G)_D.pdf",
+    "keywords": ["Schottky diode", "APT100S20LCT", "Microsemi"]
+  },
+
+  "TPS51386": {
+    "type": "online",
+    "author": ["Texas Instruments"],
+    "title": "TPS51386 4.5-V to 24-V Input, 8-A Synchronous Buck Converter",
+    "url": "https://www.ti.com/lit/ds/slusf01/slusf01.pdf",
+    "keywords": ["TPS51386", "buck converter", "TI"]
+  },
+
+  "Webench": {
+    "type": "online",
+    "author": ["Texas Instruments"],
+    "title": "WEBENCH Power Designer",
+    "url": "https://www.ti.com/tool/WEBENCH-CIRCUIT-DESIGNER",
+    "keywords": ["Webench", "TI"]
+  },
+
+  "TPS25980": {
+    "type": "online",
+    "author": ["Texas Instruments"],
+    "title": "TPS25980: 2.7-24 V, 8 A Smart eFuse",
+    "url": "https://www.ti.com/lit/ds/symlink/tps25980.pdf",
+    "keywords": ["TPS25980", "eFuse", "TI"]
+  },
+
+  "theartofelectronics": {
+    "type": "inbook",
+    "author": ["Paul Horowitz", "Winfield Hill"],
+    "title": "The Art of Electronics, 3rd Edition",
+    "chapter": "9.6",
+    "publisher": "Cambridge University Press",
+    "year": 2015,
+    "keywords": ["electronics"]
+  }
+}
